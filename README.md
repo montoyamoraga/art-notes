@@ -9,7 +9,7 @@ Last updated on January 2018.
 
 ## Artists
 
-* Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
+* Björk ([site](https://bjork.com), [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk)): Icelandic music composer, vocalist, producer.
 
 
 
