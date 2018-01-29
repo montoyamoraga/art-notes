@@ -44,8 +44,6 @@ Last updated on January 2018.
 * Jodorowsky
 *
 
-## Institutions
-
 ## Instruments
 
 * Sony
@@ -71,6 +69,15 @@ Last updated on January 2018.
 ## Records
 
 * Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles
+
+## Research centers
+
+
+## Schools
+
+* CODED Escuela
+* School for Poetic Computation
+* New York University - Interactive Telecommunications Program
 
 ## Shops
 
