@@ -32,18 +32,38 @@ Last updated on January 2018.
 
 ## Companies
 
+* Fender
 * Mutable Instruments
 * Roland
+
+## Cultural centers
 
 ## Films
 
 * Jodorowsky
 *
 
+## Institutions
+
+## Instruments
+
+* Sony
+* Fender Jaguar
+* Fender Jazz Bass
+* Fender Jazzmaster
+* Fender Precision Bass
+* Fender Stratocaster
+* Fender Telecaster
+
+
 ## Labels
 
 * 4AD
-*
+* Algo records
+* Factory
+* Quemasucabeza
+
+
 
 ## Publishers
 
@@ -55,6 +75,7 @@ Last updated on January 2018.
 
 ## Software
 
+* ChucK
 * Max
 * p5.js
 * Processing
