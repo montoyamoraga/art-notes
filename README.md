@@ -6,7 +6,6 @@ This list is curated by Aarón Montoya-Moraga.
 
 Last updated on January 2018.
 
-
 ## Artists
 
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
@@ -35,6 +34,8 @@ Last updated on January 2018.
 * Fender
 * Mutable Instruments
 * Roland
+* Sony
+* Korg
 
 ## Cultural centers
 
@@ -63,8 +64,6 @@ Last updated on January 2018.
 * Factory
 * Quemasucabeza
 
-
-
 ## Publishers
 
 *
@@ -72,6 +71,11 @@ Last updated on January 2018.
 ## Records
 
 * Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles
+
+## Shops
+
+* Control [site](https://www.ctrl-mod.com/): modular synthesizer store in Brooklyn, New York.
+
 
 ## Software
 
