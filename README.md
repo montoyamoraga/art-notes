@@ -11,6 +11,7 @@ Last updated on January 2018.
 
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
+* Javiera Mena [site](http://javieramena.com/) [wiki](https://en.wikipedia.org/wiki/Javiera_Mena): Chilean singer, songwriter.
 * Kyle McDonald [site](http://www.kylemcdonald.net/): American artist working with code.
 * Lauren McCarthy [site](http://lauren-mccarthy.com/): American multimedia artist, creator of [p5.js](https:s//p5js.org/).
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
