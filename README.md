@@ -89,9 +89,11 @@ Last updated on January 2018.
 
 ## Software
 
+* audiogrep
 * ChucK
 * Max
 * p5.js
 * Processing
 * Pure Data
 * three.js
+* videogrep
