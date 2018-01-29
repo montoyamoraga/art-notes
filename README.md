@@ -23,11 +23,14 @@ Last updated on January 2018.
 
 ## Books
 
+* Grapefruit, by Yoko Ono
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
+
 
 ## Films
 
+*
 
 ## Records
 
-* 
+* Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles
