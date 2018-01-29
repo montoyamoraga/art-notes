@@ -35,7 +35,6 @@ Last updated on January 2018.
 * Mutable Instruments
 * Roland
 
-
 ## Films
 
 * Jodorowsky
@@ -53,3 +52,11 @@ Last updated on January 2018.
 ## Records
 
 * Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles
+
+## Software
+
+* Max
+* p5.js
+* Processing
+* Pure Data
+* three.js
