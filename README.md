@@ -14,10 +14,15 @@ Last updated on January 2018.
 * James Murphy: American musician, founder and frontman of LCD Soundsystem.
 * Javiera Mena [site](http://javieramena.com/) [wiki](https://en.wikipedia.org/wiki/Javiera_Mena): Chilean singer, songwriter.
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
+* Kathleen Hanna
 * Kyle McDonald [site](http://www.kylemcdonald.net/): American artist working with code.
 * Lauren McCarthy [site](http://lauren-mccarthy.com/): American multimedia artist, creator of [p5.js](https:s//p5js.org/).
+* Les Claypool
 * Manuel Scorza [wiki](https://en.wikipedia.org/wiki/Manuel_Scorza): Peruvian poet, novelist, and political activist.
+* Michael Stipe
+* Prince
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
+* Roger Linn
 * Sam Lavigne [site](http://lav.io/): American multimedia artist and programmer.
 * Taeyoon Choi [site](http://taeyoonchoi.com/): Korean artist and co-founder of the School of Poetic Computation.
 * Violeta Parra [wiki](https://en.wikipedia.org/wiki/Violeta_Parra): Chilean folklorist, singer, songwriter.
@@ -35,10 +40,10 @@ Last updated on January 2018.
 ## Companies
 
 * Fender
+* Korg
 * Mutable Instruments
 * Roland
 * Sony
-* Korg
 
 ## Cultural centers
 
@@ -49,6 +54,7 @@ Last updated on January 2018.
 
 ## Instruments
 
+* Korg
 * Sony
 * Fender Jaguar
 * Fender Jazz Bass
