@@ -58,6 +58,10 @@ Last updated on January 2018.
 * Jodorowsky
 *
 
+## Foundations
+
+* [Processing Foundation](https://processingfoundation.org/)
+
 ## Instruments
 
 * Korg microKorg
@@ -105,11 +109,12 @@ Last updated on January 2018.
 
 ## Software
 
-* audiogrep
-* ChucK
-* Max
-* p5.js
-* Processing
-* Pure Data
-* three.js
-* videogrep
+* [audiogrep](http://antiboredom.github.io/audiogrep/): audio supercut tool, by Sam Lavigne.
+* [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
+* [Max](https://cycling74.com/): visual programming environment for multimedia synthesis and manipulation.
+* [p5.js](https://cycling74.com/): JavaScript library for programming within the context of visual arts. Developed by Lauren McCarthy
+* [Processing](https://processing.org/): flexible software sketchbook and language for learning how to code within the context of the visual arts. Developed by Ben Fry and Casey Reas.
+* [Pure Data](http://puredata.info/): open-source visual programming language for multimedia. Developed by Miller Puckette.
+* [three.js]()
+* [videogrep]()
+* [VidPy](https://antiboredom.github.io/vidpy/): Python video editor and compositor. Developed by Sam Lavigne.
