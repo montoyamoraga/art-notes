@@ -13,6 +13,7 @@ Last updated on January 2018.
 * Casey Reas
 * Daniel Rozin
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
+* Ge Wang
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
 * Golan Levin [site](http://www.flong.com/) [wiki](https://en.wikipedia.org/wiki/Golan_Levin): American new media artist and professor.
 * James Murphy: American musician, founder and frontman of LCD Soundsystem.
@@ -41,6 +42,7 @@ Last updated on January 2018.
 ## Books
 
 * Grapefruit, by Yoko Ono
+* Oblique Strategies [wiki](https://en.wikipedia.org/wiki/Oblique_Strategies), by Brian Eno and Peter Schmidt.
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
 
 ## Collectives
