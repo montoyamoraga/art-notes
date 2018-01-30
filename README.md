@@ -8,6 +8,9 @@ Last updated on January 2018.
 
 ## Artists
 
+* Ai Weiwei
+* Allison Parrish [site](https://www.decontextualize.com/): American programmer, poet, educator, and game design.
+* Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
 * Bon Iver
 * Casey Reas
@@ -22,6 +25,7 @@ Last updated on January 2018.
 * John Cage [wiki](https://en.wikipedia.org/wiki/John_Cage): American composer and music theorist.
 * John Maeda [site](https://maedastudio.com/) [wiki](https://en.wikipedia.org/wiki/John_Maeda): American designer and professor.
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
+* Kanye West
 * Kathleen Hanna
 * Kyle McDonald [site](http://www.kylemcdonald.net/): American artist working with code.
 * Lauren McCarthy [site](http://lauren-mccarthy.com/): American multimedia artist, creator of [p5.js](https:s//p5js.org/).
@@ -31,13 +35,23 @@ Last updated on January 2018.
 * Matt Romein [site](http://matt-romein.com/): American multimedia artist and performance artist.
 * Merce Cunningham [wiki](https://en.wikipedia.org/wiki/Merce_Cunningham): American dancer and choreographer.
 * Michael Stipe [wiki](https://en.wikipedia.org/wiki/Michael_Stipe): American musician, singer and songwriter, member of R.E.M.
+* Nicanor Parra
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Roger Linn
 * Sam Lavigne [site](http://lav.io/): American multimedia artist and programmer.
-* Taeyoon Choi [site](http://taeyoonchoi.com/): Korean artist and co-founder of the School of Poetic Computation.
+* Taeyoon Choi [site](http://taeyoonchoi.com/): Korean artist and co-founder of the School for Poetic Computation.
 * Tristan Perich [site](http://www.tristanperich.com/) [wiki](https://en.wikipedia.org/wiki/Tristan_Perich)- American composer and sound artist.
 * Violeta Parra [wiki](https://en.wikipedia.org/wiki/Violeta_Parra): Chilean folklorist, singer, songwriter.
+* Zach Lieberman
+
+## Bands
+
+* The Beatles
+* Flaming Lips
+* The Magnetic Fields
+* Pixies
+* The xx
 
 ## Books
 
@@ -92,7 +106,8 @@ Last updated on January 2018.
 * Fender Precision Bass
 * Fender Stratocaster
 * Fender Telecaster
-
+* Roland TR-808
+* Teenage Engineering OP-1
 
 ## Labels
 
@@ -135,6 +150,7 @@ Last updated on January 2018.
 * [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
 * [Max](https://cycling74.com/): visual programming environment for multimedia synthesis and manipulation.
 * [p5.js](https://cycling74.com/): JavaScript library for programming within the context of visual arts. Developed by Lauren McCarthy
+* [Paul's extreme sound stretch](http://hypermammut.sourceforge.net/paulstretch/)
 * [Processing](https://processing.org/): flexible software sketchbook and language for learning how to code within the context of the visual arts. Developed by Ben Fry and Casey Reas.
 * [Pure Data](http://puredata.info/): open-source visual programming language for multimedia. Developed by Miller Puckette.
 * [three.js]()
