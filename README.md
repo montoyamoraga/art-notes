@@ -9,6 +9,8 @@ Last updated on January 2018.
 ## Artists
 
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
+* Casey Reas
+* Daniel Rozin
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
 * Golan Levin [site](http://www.flong.com/) [wiki](https://en.wikipedia.org/wiki/Golan_Levin): American new media artist and professor.
@@ -47,11 +49,13 @@ Last updated on January 2018.
 
 ## Companies
 
+* Fathom
 * Fender
 * Gibson
 * Korg
 * Mutable Instruments
 * Roland
+* Smule
 * Sony
 
 ## Compositions
@@ -62,7 +66,7 @@ Last updated on January 2018.
 
 ## Films
 
-* Jodorowsky
+* [El Topo](https://en.wikipedia.org/wiki/El_Topo): (1970) movie by Alejandro Jodorowsky.
 *
 
 ## Foundations
