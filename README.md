@@ -9,6 +9,7 @@ Last updated on January 2018.
 ## Artists
 
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
+* Bon Iver
 * Casey Reas
 * Daniel Rozin
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
@@ -49,7 +50,9 @@ Last updated on January 2018.
 
 ## Companies
 
+* Apple
 * Fathom
+* Google
 * Fender
 * Gibson
 * Korg
@@ -57,6 +60,8 @@ Last updated on January 2018.
 * Roland
 * Smule
 * Sony
+* Spotify
+* Tidal
 
 ## Compositions
 
@@ -100,10 +105,14 @@ Last updated on January 2018.
 
 ## Records
 
-* Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles
+* Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles.
+
 
 ## Research centers
 
+* CCRMA
+* CITA
+* MAT UCSB
 
 ## Schools
 
