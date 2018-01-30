@@ -9,11 +9,13 @@ Last updated on January 2018.
 ## Artists
 
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
+* Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
 * Golan Levin [site](http://www.flong.com/) [wiki](https://en.wikipedia.org/wiki/Golan_Levin): American new media artist and professor.
 * James Murphy: American musician, founder and frontman of LCD Soundsystem.
 * Javiera Mena [site](http://javieramena.com/) [wiki](https://en.wikipedia.org/wiki/Javiera_Mena): Chilean singer, songwriter.
 * Jeremy Bailey [site](http://jeremybailey.net/): American new media artist.
+* John Cage [wiki](https://en.wikipedia.org/wiki/John_Cage): American composer and music theorist.
 * John Maeda [site](https://maedastudio.com/) [wiki](https://en.wikipedia.org/wiki/John_Maeda): American designer and professor.
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
 * Kathleen Hanna
@@ -23,6 +25,7 @@ Last updated on January 2018.
 * Manuel Scorza [wiki](https://en.wikipedia.org/wiki/Manuel_Scorza): Peruvian poet, novelist, and political activist.
 * Marina Abramović [site]() [wiki](https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87): Serbian performance artist.
 * Matt Romein [site](http://matt-romein.com/): American multimedia artist and performance artist.
+* Merce Cunningham [wiki](https://en.wikipedia.org/wiki/Merce_Cunningham): American dancer and choreographer.
 * Michael Stipe [wiki](https://en.wikipedia.org/wiki/Michael_Stipe): American musician, singer and songwriter, member of R.E.M.
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
