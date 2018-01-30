@@ -35,7 +35,7 @@ Last updated on January 2018.
 * Tristan Perich [site](http://www.tristanperich.com/) [wiki](https://en.wikipedia.org/wiki/Tristan_Perich)- American composer and sound artist.
 * Violeta Parra [wiki](https://en.wikipedia.org/wiki/Violeta_Parra): Chilean folklorist, singer, songwriter.
 
-##r Books
+## Books
 
 * Grapefruit, by Yoko Ono
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
@@ -53,6 +53,10 @@ Last updated on January 2018.
 * Mutable Instruments
 * Roland
 * Sony
+
+## Compositions
+
+* [Imaginary Landscape](https://en.wikipedia.org/wiki/Imaginary_Landscape): collection of pieces by John Cage.
 
 ## Cultural centers
 
