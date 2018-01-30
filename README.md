@@ -96,7 +96,7 @@ Last updated on January 2018.
 
 ## Schools
 
-* CODED Escuela
+* [CODED Escuela](http://codedescuela.cl/)
 * [New York University](http://www.nyu.edu/) - [Interactive Media Arts](https://tisch.nyu.edu/itp): bachelor's degree in media arts.
 * [New York University](http://www.nyu.edu/) - [Interactive Telecommunications Program](https://tisch.nyu.edu/itp): master's degree in media arts.
 * [School for Poetic Computation](http://sfpc.io/): independent artist school in New York City.
@@ -104,7 +104,7 @@ Last updated on January 2018.
 
 ## Shops
 
-* Control [site](https://www.ctrl-mod.com/): modular synthesizer store in Brooklyn, New York.
+* [Control](https://www.ctrl-mod.com/): modular synthesizer store in Brooklyn, New York.
 
 
 ## Software
