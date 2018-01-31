@@ -141,6 +141,7 @@ Sections:
 ## Books
 
 * Grapefruit, by Yoko Ono
+* Machine Learning for Artists, by Gene Kogan.
 * Oblique Strategies [wiki](https://en.wikipedia.org/wiki/Oblique_Strategies), by Brian Eno and Peter Schmidt.
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
 
@@ -244,3 +245,4 @@ Sections:
 * [three.js]()
 * [videogrep]()
 * [VidPy](https://antiboredom.github.io/vidpy/): Python video editor and compositor. Developed by Sam Lavigne.
+* Wekinator
