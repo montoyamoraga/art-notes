@@ -59,6 +59,10 @@ Last updated on January 2018.
 * Oblique Strategies [wiki](https://en.wikipedia.org/wiki/Oblique_Strategies), by Brian Eno and Peter Schmidt.
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
 
+## Blogs
+
+* Hyperallergic
+
 ## Collectives
 
 * CADA: Colectivo de Acciones de Arte.
@@ -118,7 +122,7 @@ Last updated on January 2018.
 
 ## Publishers
 
-*
+* [Sator Press](http://sator.press/)
 
 ## Records
 
