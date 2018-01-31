@@ -8,11 +8,26 @@ Last updated on January 2018.
 
 ## Artists
 
+* Adanowsky
+* Adrian Belew
 * Ai Weiwei
+* Alanis Morissette
+* Alex Anwandter
+* Ana Tijoux
 * Allison Parrish [site](https://www.decontextualize.com/): American programmer, poet, educator, and game design.
+* Andrés Calamaro
 * Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
+* Atom Heart
+* Avey Tare
+* Beck
+* Beyoncé
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
+* Bob Dylan
 * Bon Iver
+* Brian Eno
+* Britney Spears
+* Camila Moreno
+* Carlos Cabezas
 * Casey Reas
 * Daniel Rozin
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
@@ -24,6 +39,7 @@ Last updated on January 2018.
 * Jeremy Bailey [site](http://jeremybailey.net/): American new media artist.
 * John Cage [wiki](https://en.wikipedia.org/wiki/John_Cage): American composer and music theorist.
 * John Maeda [site](https://maedastudio.com/) [wiki](https://en.wikipedia.org/wiki/John_Maeda): American designer and professor.
+* Jorge González
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
 * Kanye West
 * Kathleen Hanna
@@ -41,15 +57,29 @@ Last updated on January 2018.
 * Roger Linn
 * Sam Lavigne [site](http://lav.io/): American multimedia artist and programmer.
 * Taeyoon Choi [site](http://taeyoonchoi.com/): Korean artist and co-founder of the School for Poetic Computation.
+* Tom Morello
 * Tristan Perich [site](http://www.tristanperich.com/) [wiki](https://en.wikipedia.org/wiki/Tristan_Perich)- American composer and sound artist.
 * Violeta Parra [wiki](https://en.wikipedia.org/wiki/Violeta_Parra): Chilean folklorist, singer, songwriter.
 * Zach Lieberman
 
 ## Bands
 
+* Animal Collective
+* Arcade Fire
+* Ases Falsos
+* Atoms for Peace
+* Audioslave
+* Babasónicos
+* The Beach Boys
+* Beach House
 * The Beatles
+* The Books
+* Café Tacuba
+* Caravana
 * Flaming Lips
+* Fother Muckers
 * The Magnetic Fields
+* Los Mil Jinetes
 * Pixies
 * The xx
 
