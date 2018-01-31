@@ -6,6 +6,27 @@ This list is curated by Aarón Montoya-Moraga.
 
 Last updated on January 2018.
 
+Sections:
+
+* Artists
+* Bands
+* Books
+* Blogs
+* Collectives
+* Companies
+* Compositions
+* Cultural centers
+* Films
+* Foundations
+* Instruments
+* Labels
+* Publishers
+* Records
+* Research centers
+* Schools
+* Shops
+* Software
+
 ## Artists
 
 * Adanowsky
@@ -29,11 +50,14 @@ Last updated on January 2018.
 * Camila Moreno
 * Carlos Cabezas
 * Casey Reas
+* Cat Stevens
+* Charly García
 * Daniel Rozin
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
 * Ge Wang
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
 * Golan Levin [site](http://www.flong.com/) [wiki](https://en.wikipedia.org/wiki/Golan_Levin): American new media artist and professor.
+* Gustavo Cerati
 * James Murphy: American musician, founder and frontman of LCD Soundsystem.
 * Javiera Mena [site](http://javieramena.com/) [wiki](https://en.wikipedia.org/wiki/Javiera_Mena): Chilean singer, songwriter.
 * Jeremy Bailey [site](http://jeremybailey.net/): American new media artist.
@@ -43,6 +67,8 @@ Last updated on January 2018.
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
 * Kanye West
 * Kathleen Hanna
+* Kim Deal
+* Kim Gordon
 * Kyle McDonald [site](http://www.kylemcdonald.net/): American artist working with code.
 * Lauren McCarthy [site](http://lauren-mccarthy.com/): American multimedia artist, creator of [p5.js](https:s//p5js.org/).
 * Les Claypool [site](http://www.lesclaypool.com/) [wiki](https://en.wikipedia.org/wiki/Les_Claypool): American musician, singer, songwriter, and bassist. Member of Primus.
@@ -56,10 +82,13 @@ Last updated on January 2018.
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Roger Linn
 * Sam Lavigne [site](http://lav.io/): American multimedia artist and programmer.
+* Steven Drozd
 * Taeyoon Choi [site](http://taeyoonchoi.com/): Korean artist and co-founder of the School for Poetic Computation.
+* Thurston Moore
 * Tom Morello
 * Tristan Perich [site](http://www.tristanperich.com/) [wiki](https://en.wikipedia.org/wiki/Tristan_Perich)- American composer and sound artist.
 * Violeta Parra [wiki](https://en.wikipedia.org/wiki/Violeta_Parra): Chilean folklorist, singer, songwriter.
+* Wayne Coyne
 * Zach Lieberman
 
 ## Bands
@@ -76,11 +105,37 @@ Last updated on January 2018.
 * The Books
 * Café Tacuba
 * Caravana
+* Chico Trujillo
+* The Clash
+* CocoRosie
+* Cocteau Twins
+* Congreso
+* Creedence Clearwater Revival
+* Crystal Castles
+* Daft Punk
+* F
+* The Dead Weather
+* Deerhoof
+* Deftones
+* Dënver
+* Die Antwoord
+* Dinosaur Jr.
+* The Doors
+* Echo and the Bunnymen
+* Él Mató A Un Policía Motorizado
+* Electrodomésticos
+* ESG
+* Faith No More
 * Flaming Lips
+* Fleetwood Mac
 * Fother Muckers
+* Frank Black & The Catholics
+* Fugazi
+* Future Bible Heroes
 * The Magnetic Fields
 * Los Mil Jinetes
 * Pixies
+* Soda Stereo
 * The xx
 
 ## Books
@@ -157,7 +212,6 @@ Last updated on January 2018.
 ## Records
 
 * Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles.
-
 
 ## Research centers
 
