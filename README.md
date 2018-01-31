@@ -8,7 +8,7 @@ Last updated on January 2018.
 
 Sections:
 
-* Artists
+* [Artists](https://github.com/montoyamoraga/art-notes#artists)
 * Bands
 * Books
 * Blogs
