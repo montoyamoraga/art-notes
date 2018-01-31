@@ -148,6 +148,7 @@ Sections:
 ## Blogs
 
 * Hyperallergic
+* The King of Gear
 
 ## Collectives
 
