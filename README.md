@@ -9,23 +9,23 @@ Last updated on January 2018.
 Sections:
 
 * [Artists](https://github.com/montoyamoraga/art-notes#artists)
-* Bands
-* Books
-* Blogs
-* Collectives
-* Companies
-* Compositions
-* Cultural centers
-* Films
-* Foundations
-* Instruments
-* Labels
-* Publishers
-* Records
-* Research centers
-* Schools
-* Shops
-* Software
+* [Bands](https://github.com/montoyamoraga/art-notes#bands)
+* [Books](https://github.com/montoyamoraga/art-notes#books)
+* [Blogs](https://github.com/montoyamoraga/art-notes#blogs)
+* [Collectives](https://github.com/montoyamoraga/art-notes#collectives)
+* [Companies](https://github.com/montoyamoraga/art-notes#companies)
+* [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
+* [Cultural centers](https://github.com/montoyamoraga/art-notes#cultural-centers)
+* [Films](https://github.com/montoyamoraga/art-notes#films)
+* [Foundations](https://github.com/montoyamoraga/art-notes#foundations)
+* [Instruments](https://github.com/montoyamoraga/art-notes#instruments)
+* [Labels](https://github.com/montoyamoraga/art-notes#labels)
+* [Publishers](https://github.com/montoyamoraga/art-notes#publishers)
+* [Records](https://github.com/montoyamoraga/art-notes#records)
+* [Research centers](https://github.com/montoyamoraga/art-notes#research-centers)
+* [Schools](https://github.com/montoyamoraga/art-notes#schools)
+* [Shops](https://github.com/montoyamoraga/art-notes#shops)
+* [Software](https://github.com/montoyamoraga/art-notes#software)
 
 ## Artists
 
