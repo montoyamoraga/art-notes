@@ -15,6 +15,7 @@ Sections:
 * [Collectives](https://github.com/montoyamoraga/art-notes#collectives)
 * [Companies](https://github.com/montoyamoraga/art-notes#companies)
 * [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
+* [Conferences](https://github.com/montoyamoraga/art-notes#conferences)
 * [Cultural centers](https://github.com/montoyamoraga/art-notes#cultural-centers)
 * [Films](https://github.com/montoyamoraga/art-notes#films)
 * [Foundations](https://github.com/montoyamoraga/art-notes#foundations)
@@ -51,6 +52,7 @@ Sections:
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
 * Bob Dylan
 * Bon Iver
+* Brian Crabtree [site](https://nnnnnnnn.org/): co-founder of Monome.
 * Brian Eno
 * Britney Spears
 * Camila Moreno
@@ -175,7 +177,11 @@ Sections:
 
 ## Companies
 
+* Ableton
 * Apple
+* Arduino
+* Arturia
+* Bitwig
 * Fathom
 * Google
 * Fender
@@ -184,14 +190,20 @@ Sections:
 * Monome
 * Mutable Instruments
 * Roland
+* Roli
 * Smule
 * Sony
 * Spotify
 * Tidal
+* Whimsical Raps [site](https://shop.whimsicalraps.com/)
 
 ## Compositions
 
 * [Imaginary Landscape](https://en.wikipedia.org/wiki/Imaginary_Landscape): collection of pieces by John Cage.
+
+## Conferences
+
+* ICLC [site](http://iclc.livecodenetwork.org/): International Conference on Live Coding.
 
 ## Cultural centers
 
