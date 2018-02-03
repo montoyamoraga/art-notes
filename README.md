@@ -181,6 +181,7 @@ Sections:
 * Fender
 * Gibson
 * Korg
+* Monome
 * Mutable Instruments
 * Roland
 * Smule
