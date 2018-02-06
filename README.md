@@ -67,10 +67,12 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Carlos Cabezas
 * Casey Reas
 * Cat Stevens
+* Chance the Rapper [wiki](https://en.wikipedia.org/wiki/Chance_the_Rapper): American rapper, singer and record producer.
 * Charly García
 * Damien Hirst
 * Daniel Rozin
 * Dhruv Mehrotra
+* Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
 * Ge Wang
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
@@ -87,6 +89,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
 * Kanye West
 * Kathleen Hanna
+* Kendrick Lamar [wiki](https://en.wikipedia.org/wiki/Kendrick_Lamar): American rapper and songwriter.
 * Kim Deal
 * Kim Gordon
 * Kyle McDonald [site](http://www.kylemcdonald.net/): American artist working with code.
