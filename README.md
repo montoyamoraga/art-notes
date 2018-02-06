@@ -2,11 +2,18 @@
 
 ## About
 
-This list is curated by Aarón Montoya-Moraga.
+This list is curated by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
 Last updated on February 2018.
 
-Sections:
+Thanks to the people that have contributed to the project, including:
+
+* [Caleb Ferguson](https://github.com/calebfergie)
+* [Nicolás Peña-Escarpentier](https://github.com/nicolaspe/)
+
+If you don't want to be featured here, send an email to montoyamoraga@gmail.com in order to be deleted.
+
+## Table of contents
 
 * [Artists](https://github.com/montoyamoraga/art-notes#artists)
 * [Bands](https://github.com/montoyamoraga/art-notes#bands)
