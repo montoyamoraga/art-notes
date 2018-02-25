@@ -19,6 +19,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * [Bands](https://github.com/montoyamoraga/art-notes#bands)
 * [Books](https://github.com/montoyamoraga/art-notes#books)
 * [Blogs](https://github.com/montoyamoraga/art-notes#blogs)
+* [Classes](https://github.com/montoyamoraga/art-notes#classes)
 * [Collectives](https://github.com/montoyamoraga/art-notes#collectives)
 * [Companies](https://github.com/montoyamoraga/art-notes#companies)
 * [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
@@ -31,6 +32,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * [Labels](https://github.com/montoyamoraga/art-notes#labels)
 * [Museums](https://github.com/montoyamoraga/art-notes#museums)
 * [Organizations](https://github.com/montoyamoraga/art-notes#organizations)
+* [Prizes](https://github.com/montoyamoraga/art-notes#prizes)
 * [Projects](https://github.com/montoyamoraga/art-notes#projects)
 * [Publishers](https://github.com/montoyamoraga/art-notes#publishers)
 * [Records](https://github.com/montoyamoraga/art-notes#records)
@@ -39,6 +41,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * [Shops](https://github.com/montoyamoraga/art-notes#shops)
 * [Software](https://github.com/montoyamoraga/art-notes#software)
 * [Studios](https://github.com/montoyamoraga/art-notes#studios)
+* [Thesis](https://github.com/montoyamoraga/art-notes#thesis)
 * [Venues](https://github.com/montoyamoraga/art-notes#venues)
 * [Websites](https://github.com/montoyamoraga/art-notes#websites)
 
@@ -47,14 +50,17 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Adanowsky
 * Adrian Belew
 * Ai Weiwei
+* Alan Lomax [wiki](https://en.wikipedia.org/wiki/Alan_Lomax): American ethnomusicologist.
 * Alanis Morissette
 * Alex Anwandter
-* Ana Tijoux
 * Allison Parrish [site](https://www.decontextualize.com/): American programmer, poet, educator, and game design.
+* Ana Tijoux
+
 * Andrés Calamaro
 * Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
 * Atom Heart
 * Avey Tare
+* Bennett Foddy [site](http://www.foddy.net/) [wiki](https://en.wikipedia.org/wiki/Bennett_Foddy): Australian video game designer.
 * Beck
 * Beyoncé
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
@@ -73,6 +79,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Daniel Rozin
 * Dhruv Mehrotra
 * Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
+* Ernesto Neto [wiki](https://en.wikipedia.org/wiki/Ernesto_Neto): Brazilian visual artist.
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
 * Ge Wang
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
@@ -86,6 +93,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * John Cage [wiki](https://en.wikipedia.org/wiki/John_Cage): American composer and music theorist.
 * John Maeda [site](https://maedastudio.com/) [wiki](https://en.wikipedia.org/wiki/John_Maeda): American designer and professor.
 * Jorge González
+* Joseph Beuys [wiki](https://en.wikipedia.org/wiki/Joseph_Beuys): German Fluxus, happening and performance artist.
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
 * Kanye West
 * Kathleen Hanna
@@ -95,6 +103,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Kyle McDonald [site](http://www.kylemcdonald.net/): American artist working with code.
 * Lauren McCarthy [site](http://lauren-mccarthy.com/): American multimedia artist, creator of [p5.js](https:s//p5js.org/).
 * Les Claypool [site](http://www.lesclaypool.com/) [wiki](https://en.wikipedia.org/wiki/Les_Claypool): American musician, singer, songwriter, and bassist. Member of Primus.
+* Limor Fried [site](http://ladyada.net/) [wiki](https://en.wikipedia.org/wiki/Limor_Fried): American electrical engineer and owner of Adafruit Industries.
 * Luisa Pereira
 * Manuel Scorza [wiki](https://en.wikipedia.org/wiki/Manuel_Scorza): Peruvian poet, novelist, and political activist.
 * Marina Abramović [site]() [wiki](https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87): Serbian performance artist.
@@ -107,10 +116,12 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Rafaël Rozendaal
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Roger Linn
+* Romain Gary [wiki](https://en.wikipedia.org/wiki/Romain_Gary): French diplomat, novelist and film director.
 * Sam Lavigne [site](http://lav.io/): American multimedia artist and programmer.
 * Sergio Mora-Diaz
 * Steven Drozd
 * Taeyoon Choi [site](http://taeyoonchoi.com/): Korean artist and co-founder of the School for Poetic Computation.
+* Tehching Hsieh [site](http://www.tehchinghsieh.com/) [wiki](https://en.wikipedia.org/wiki/Tehching_Hsieh): Taiwanese performance artist.
 * Thurston Moore
 * Tom Morello
 * Tristan Perich [site](http://www.tristanperich.com/) [wiki](https://en.wikipedia.org/wiki/Tristan_Perich)- American composer and sound artist.
@@ -181,6 +192,10 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Hyperallergic
 * The King of Gear
 
+## Classes
+
+* [Performing User](https://itp.nyu.edu/classes/performinguser/remote-user/): class by Lauren McCarthy at NYU ITP.
+
 ## Collectives
 
 * CADA: Colectivo de Acciones de Arte.
@@ -189,6 +204,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 ## Companies
 
 * Ableton
+* Adafruit
 * Apple
 * Arduino
 * Arturia
@@ -229,6 +245,8 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 
 ## Games
 
+* [Getting Over It with Bennett Foddy]()
+* [QWOP](https://en.wikipedia.org/wiki/QWOP): video game by Bennett Foddy.
 * Rewordable
 
 ## Galleries
@@ -276,6 +294,10 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 
 * Rhizome
 
+## Prizes
+
+* [Turner Prize](https://en.wikipedia.org/wiki/Turner_Prize): Annual prize presented to a British visual artist.
+
 ## Projects
 
 * Dumb Starbucks
@@ -303,7 +325,6 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Pratt Institute
 * [School for Poetic Computation](http://sfpc.io/): independent artist school in New York City.
 * SVA
-
 
 ## Shops
 
@@ -334,6 +355,11 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 
 * [Dave & Gabe](http://www.daveandgabe.care/)
 * [Random Studio](http://random.studio/)
+* [Wearable Media](https://www.wearablemedia.studio/)
+
+## Thesis
+
+* [Social Defense Mechanisms: Tools for Reclaiming our Personal Space](http://www.ladyada.net/media/pub/thesis.pdf): bachelor of science and master of engineering thesis by Limor Fried at MIT.
 
 ## Venues
 
@@ -341,6 +367,10 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Babycastles
 * Pioneer Works
 * The Stone
+
+## Wearables
+
+* [ScreamBody](http://web.media.mit.edu/~monster/screambody/):
 
 ## Websites
 
