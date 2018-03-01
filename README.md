@@ -2,7 +2,7 @@
 
 ## About
 
-This list is curated by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
+art-notes is a list of art resources and references. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
 Last updated on February 2018.
 
@@ -11,7 +11,7 @@ Thanks to the people that have contributed to the project, including:
 * [Caleb Ferguson](https://github.com/calebfergie)
 * [Nicolás Peña-Escarpentier](https://github.com/nicolaspe/)
 
-If you don't want to be featured here, send an email to montoyamoraga@gmail.com in order to be deleted.
+If you have any comment, send an email to montoyamoraga@gmail.com in order to be deleted, or post an issue on this GitHub repository.
 
 ## Table of contents
 
@@ -19,29 +19,37 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * [Bands](https://github.com/montoyamoraga/art-notes#bands)
 * [Books](https://github.com/montoyamoraga/art-notes#books)
 * [Blogs](https://github.com/montoyamoraga/art-notes#blogs)
+* [Centers](https://github.com/montoyamoraga/art-notes#Centers)
 * [Classes](https://github.com/montoyamoraga/art-notes#classes)
 * [Collectives](https://github.com/montoyamoraga/art-notes#collectives)
 * [Companies](https://github.com/montoyamoraga/art-notes#companies)
 * [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
 * [Conferences](https://github.com/montoyamoraga/art-notes#conferences)
-* [Cultural centers](https://github.com/montoyamoraga/art-notes#cultural-centers)
 * [Films](https://github.com/montoyamoraga/art-notes#films)
 * [Foundations](https://github.com/montoyamoraga/art-notes#foundations)
 * [Games](https://github.com/montoyamoraga/art-notes#games)
 * [Instruments](https://github.com/montoyamoraga/art-notes#instruments)
+* [Interfaces](https://github.com/montoyamoraga/art-notes#interfaces)
 * [Labels](https://github.com/montoyamoraga/art-notes#labels)
 * [Museums](https://github.com/montoyamoraga/art-notes#museums)
+* [Orchestras](https://github.com/montoyamoraga/art-notes#orchestras)
 * [Organizations](https://github.com/montoyamoraga/art-notes#organizations)
+* [Perception](https://github.com/montoyamoraga/art-notes#perception)
+* [Pickups](https://github.com/montoyamoraga/art-notes#pickups)
+* [Playlists](https://github.com/montoyamoraga/art-notes#playlists)
 * [Prizes](https://github.com/montoyamoraga/art-notes#prizes)
 * [Projects](https://github.com/montoyamoraga/art-notes#projects)
+* [Protocols](https://github.com/montoyamoraga/art-notes#protocols)
 * [Publishers](https://github.com/montoyamoraga/art-notes#publishers)
 * [Records](https://github.com/montoyamoraga/art-notes#records)
 * [Research centers](https://github.com/montoyamoraga/art-notes#research-centers)
 * [Schools](https://github.com/montoyamoraga/art-notes#schools)
+* [Sensors](https://github.com/montoyamoraga/art-notes#sensors)
 * [Shops](https://github.com/montoyamoraga/art-notes#shops)
 * [Software](https://github.com/montoyamoraga/art-notes#software)
 * [Studios](https://github.com/montoyamoraga/art-notes#studios)
 * [Thesis](https://github.com/montoyamoraga/art-notes#thesis)
+* [Tutorials](https://github.com/montoyamoraga/art-notes#tutorials)
 * [Venues](https://github.com/montoyamoraga/art-notes#venues)
 * [Websites](https://github.com/montoyamoraga/art-notes#websites)
 
@@ -55,7 +63,6 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Alex Anwandter
 * Allison Parrish [site](https://www.decontextualize.com/): American programmer, poet, educator, and game design.
 * Ana Tijoux
-
 * Andrés Calamaro
 * Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
 * Atom Heart
@@ -75,8 +82,11 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Cat Stevens
 * Chance the Rapper [wiki](https://en.wikipedia.org/wiki/Chance_the_Rapper): American rapper, singer and record producer.
 * Charly García
+* Christian Oyarzún [site](http://error404.cl/): Chilean artist, musician, programmer, educator.
+* Dafna Napthtali
 * Damien Hirst
 * Daniel Rozin
+* Daniel Shiffman [site](http://shiffman.net/) [wiki](https://en.wikipedia.org/wiki/Daniel_Shiffman): programmer, educator, project lead at the Processing Foundation, professor at NYU ITP.
 * Dhruv Mehrotra
 * Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
 * Ernesto Neto [wiki](https://en.wikipedia.org/wiki/Ernesto_Neto): Brazilian visual artist.
@@ -92,6 +102,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Jeremy Bailey [site](http://jeremybailey.net/): American new media artist.
 * John Cage [wiki](https://en.wikipedia.org/wiki/John_Cage): American composer and music theorist.
 * John Maeda [site](https://maedastudio.com/) [wiki](https://en.wikipedia.org/wiki/John_Maeda): American designer and professor.
+* Jonny Greenwood
 * Jorge González
 * Joseph Beuys [wiki](https://en.wikipedia.org/wiki/Joseph_Beuys): German Fluxus, happening and performance artist.
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
@@ -108,17 +119,23 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Manuel Scorza [wiki](https://en.wikipedia.org/wiki/Manuel_Scorza): Peruvian poet, novelist, and political activist.
 * Marina Abramović [site]() [wiki](https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87): Serbian performance artist.
 * Matt Romein [site](http://matt-romein.com/): American multimedia artist and performance artist.
+* Max Matthews
 * Merce Cunningham [wiki](https://en.wikipedia.org/wiki/Merce_Cunningham): American dancer and choreographer.
 * Michael Stipe [wiki](https://en.wikipedia.org/wiki/Michael_Stipe): American musician, singer and songwriter, member of R.E.M.
+* Miller Puckette
 * Natalia Cabrera
+* Nels Cline
 * Nicanor Parra
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Rafaël Rozendaal
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
+* R. Luke Dubois
+* Rodrigo Cadiz [site](http://www.rodrigocadiz.com/) [wiki](https://en.wikipedia.org/wiki/Rodrigo_Cadiz) Chilean composer, researcher and engineer.
 * Roger Linn
 * Romain Gary [wiki](https://en.wikipedia.org/wiki/Romain_Gary): French diplomat, novelist and film director.
 * Sam Lavigne [site](http://lav.io/): American multimedia artist and programmer.
 * Sergio Mora-Diaz
+* Steve Reich
 * Steven Drozd
 * Taeyoon Choi [site](http://taeyoonchoi.com/): Korean artist and co-founder of the School for Poetic Computation.
 * Tehching Hsieh [site](http://www.tehchinghsieh.com/) [wiki](https://en.wikipedia.org/wiki/Tehching_Hsieh): Taiwanese performance artist.
@@ -172,19 +189,28 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Frank Black & The Catholics
 * Fugazi
 * Future Bible Heroes
+* Kraftwerk
 * The Magnetic Fields
+* Matmos
 * Los Mil Jinetes
 * Pixies
+* Radiohead
 * Soda Stereo
 * Wu-Tang Clan
 * The xx
 
 ## Books
 
+* composing electronic music, curtis roads
+* computer music tutorial, curtis roads
+* electronic music - systems, techniques and controls, by allen strange
 * Grapefruit, by Yoko Ono
+* Handmade Electronic Music, by Nicolas Collins
 * Machine Learning for Artists, by Gene Kogan.
 * Marcel Duchamp The Afternoon Interviews, by Calvin Tomkins
+* Microsound, by Curtis Roads
 * Oblique Strategies [wiki](https://en.wikipedia.org/wiki/Oblique_Strategies), by Brian Eno and Peter Schmidt.
+* Programming for musicians and digital artists, by Ge Wang et al.
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
 
 ## Blogs
@@ -192,8 +218,20 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Hyperallergic
 * The King of Gear
 
+## Centers
+
+* CCRMA
+* CITA
+* HarvestWorks
+* IRCAM
+* MAT UCSB
+* IRCAM
+
 ## Classes
 
+* Interactive Music, by Yotam Mann
+* New interfaces for musical expression
+* introduction to programming for musicians and digital artists, by ajay kapur at kadenze
 * [Performing User](https://itp.nyu.edu/classes/performinguser/remote-user/): class by Lauren McCarthy at NYU ITP.
 
 ## Collectives
@@ -213,9 +251,14 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Google
 * Fender
 * Gibson
+* Keith McMillen
 * Korg
+* Make Noise
 * Monome
+* Moog
+* Motu
 * Mutable Instruments
+* Nintendo
 * Roland
 * Roli
 * Smule
@@ -228,16 +271,29 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 
 * [Imaginary Landscape](https://en.wikipedia.org/wiki/Imaginary_Landscape): collection of pieces by John Cage.
 
+## Computers
+
+* Apple Macbook
+* Apple Macbook Air
+* Apple Macbook Pro
+* Raspberry Pi
+
 ## Conferences
 
 * ICLC [site](http://iclc.livecodenetwork.org/): International Conference on Live Coding.
-
-## Cultural centers
 
 ## Films
 
 * [El Topo](https://en.wikipedia.org/wiki/El_Topo): (1970) movie by Alejandro Jodorowsky.
 * The Wall, Pink Floyd
+
+## Formats
+
+* AIFF
+* FLAC
+* MOV
+* MP3
+* WAV
 
 ## Foundations
 
@@ -260,6 +316,7 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 
 ## Instruments
 
+* Feral Glitch
 * Korg microKorg
 * Korg Monotron
 * Korg Volca
@@ -270,15 +327,31 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * Fender Precision Bass
 * Fender Stratocaster
 * Fender Telecaster
+* LinnStrument
+* Ondes Martenot
 * Otamatone
+* Reactable
 * Roland TR-808
 * Teenage Engineering OP-1
+* Theremin
+
+## Interfaces
+
+* Apogee Quartet
+* Focusrite Scarlett
+* Mackie
+* MOTU
 
 ## Labels
 
 * 4AD
 * Algo records
 * Factory
+
+## Microcontrollers
+
+* Arduino
+* Teensy
 
 ## Museums
 
@@ -290,9 +363,26 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * New Museum
 * Whitney
 
+## Orchestras
+
+* Plork
+* Slork
+
 ## Organizations
 
 * Rhizome
+
+## Perception
+
+* Human audio spectrum: humans can hear roughly between 20 Hz and 20 kHz.
+
+## Pickups
+
+* Dean Markley
+
+## Playlists
+
+* ...
 
 ## Prizes
 
@@ -302,6 +392,12 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 
 * Dumb Starbucks
 
+## Protocols
+
+* MIDI
+* OSC
+* Serial
+
 ## Publishers
 
 * [Sator Press](http://sator.press/)
@@ -309,12 +405,6 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 ## Records
 
 * Revolver [wiki](https://en.wikipedia.org/wiki/Revolver_(Beatles_album)), by The Beatles.
-
-## Research centers
-
-* CCRMA
-* CITA
-* MAT UCSB
 
 ## Schools
 
@@ -326,28 +416,52 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 * [School for Poetic Computation](http://sfpc.io/): independent artist school in New York City.
 * SVA
 
+## Sensors
+
+* Kinect 360
+* Kinect One
+* Wii
+
 ## Shops
 
 * AC Gears
 * [Control](https://www.ctrl-mod.com/): modular synthesizer store in Brooklyn, New York.
+* Guitar Center
 * Main Drag music
+* Reverb
+* Sam ash
 * Spoonbill & Sugartown Books
 * Strand
+* Sweetwater
 
 ## Software
 
+* Ableton Live
+* Apple Logic Pro
 * [audiogrep](http://antiboredom.github.io/audiogrep/): audio supercut tool, by Sam Lavigne.
 * [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
+* Garageband
 * [Max](https://cycling74.com/): visual programming environment for multimedia synthesis and manipulation.
 * [MadMapper](http://madmapper.com/)
 * [Millumin](http://www.millumin.com/)
+* Osculator
 * [p5.js](https://cycling74.com/): JavaScript library for programming within the context of visual arts. Developed by Lauren McCarthy
 * [Paul's extreme sound stretch](http://hypermammut.sourceforge.net/paulstretch/)
 * [Processing](https://processing.org/): flexible software sketchbook and language for learning how to code within the context of the visual arts. Developed by Ben Fry and Casey Reas.
+* Pro Tools
 * [Pure Data](http://puredata.info/): open-source visual programming language for multimedia. Developed by Miller Puckette.
+* Reason
+* Sonic Pi
+* superCollider
 * [three.js](https://threejs.org/)
+* tone.js
+* touchOSC
+* Unity
+* Unreal Engine
 * [videogrep](http://antiboredom.github.io/videogrep/)
 * [VidPy](https://antiboredom.github.io/vidpy/): Python video editor and compositor. Developed by Sam Lavigne.
+* Web Audio API
+* Web MIDI API
 * [Webrecorder](https://webrecorder.io/)
 * [Wekinator](http://www.wekinator.org/)
 
@@ -360,6 +474,11 @@ If you don't want to be featured here, send an email to montoyamoraga@gmail.com 
 ## Thesis
 
 * [Social Defense Mechanisms: Tools for Reclaiming our Personal Space](http://www.ladyada.net/media/pub/thesis.pdf): bachelor of science and master of engineering thesis by Limor Fried at MIT.
+
+## Tutorials
+
+* FLOSS manuals
+* Sam Tarakajian, Delicious Tutorials
 
 ## Venues
 
