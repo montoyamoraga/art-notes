@@ -4,7 +4,7 @@
 
 art-notes is a list of art resources and references. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
-Last updated on February 2018.
+Last updated on March 2018.
 
 Thanks to the people that have contributed to the project, including:
 
@@ -87,6 +87,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Damien Hirst
 * Daniel Rozin
 * Daniel Shiffman [site](http://shiffman.net/) [wiki](https://en.wikipedia.org/wiki/Daniel_Shiffman): programmer, educator, project lead at the Processing Foundation, professor at NYU ITP.
+* Darius Kazemi [site](http://tinysubversions.com/) [wiki](https://en.wikipedia.org/wiki/Darius_Kazemi): internet artist, co-founder of technology collective Feel Train.
 * Dhruv Mehrotra
 * Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
 * Ernesto Neto [wiki](https://en.wikipedia.org/wiki/Ernesto_Neto): Brazilian visual artist.
@@ -238,6 +239,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * CADA: Colectivo de Acciones de Arte.
 * F.A.T. Lab [site](http://fffff.at/): the Free Art and Technology La bis an organization dedicated to enriching the publicdomain through the research and development of creative technologies and media.
+* [Feel Train](https://en.wikipedia.org/wiki/Feel_Train): technology collaborative co-founded by Courtney Stanton and Darius Kazemi.
 
 ## Companies
 
