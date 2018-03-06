@@ -130,6 +130,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Rafaël Rozendaal
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
+* Renata Gaui [site](https://renatagaui.com/): Brazilian designer and creative technologist.
 * R. Luke Dubois
 * Rodrigo Cadiz [site](http://www.rodrigocadiz.com/) [wiki](https://en.wikipedia.org/wiki/Rodrigo_Cadiz) Chilean composer, researcher and engineer.
 * Roger Linn
@@ -491,6 +492,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Wearables
 
+* [Hysterical wearable](https://renatagaui.com/hysterical-wearable.html): by Renata Gaui.
 * [ScreamBody](http://web.media.mit.edu/~monster/screambody/):
 
 ## Websites
