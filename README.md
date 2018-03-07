@@ -65,11 +65,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Ana Tijoux [wiki](https://en.wikipedia.org/wiki/Ana_Tijoux): French-Chilean musician, rapper. Former member of Makiza.
 * Andrés Calamaro [site](http://www.calamaro.com/) [wiki](https://en.wikipedia.org/wiki/Andr%C3%A9s_Calamaro):  Argentine musician, singer, songwriter. Former member of Los Rodríguez.
 * Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
-* Atom Heart
-* Avey Tare
+* Avey Tare [site](http://aveytare.com/) [wiki](https://en.wikipedia.org/wiki/Avey_Tare): American musician, songwriter, member of Animal Collective.
 * Bennett Foddy [site](http://www.foddy.net/) [wiki](https://en.wikipedia.org/wiki/Bennett_Foddy): Australian video game designer.
-* Beck
-* Beyoncé
+* Beck [site](http://www.beck.com/) [wiki](https://en.wikipedia.org/wiki/Beck): American musician, singer, songwriter, multi-instrumentalist.
+* Beyoncé [site](https://www.beyonce.com/) [wiki](https://en.wikipedia.org/wiki/Beyonc%C3%A9): 
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
 * Bob Dylan
 * Bon Iver
@@ -145,7 +144,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Tehching Hsieh [site](http://www.tehchinghsieh.com/) [wiki](https://en.wikipedia.org/wiki/Tehching_Hsieh): Taiwanese performance artist.
 * Thurston Moore
 * Tom Morello
-* Tristan Perich [site](http://www.tristanperich.com/) [wiki](https://en.wikipedia.org/wiki/Tristan_Perich)- American composer and sound artist.
+* Tristan Perich [site](http://www.tristanperich.com/) [wiki](https://en.wikipedia.org/wiki/Tristan_Perich): American composer and sound artist.
+* Uwe Schmidt [site](http://atom-tm.com/) [wiki](https://en.wikipedia.org/wiki/Uwe_Schmidt): German composer, musician, producer. Also known as Atom, Atom Heart, Señor Coconut.
 * Violeta Parra [wiki](https://en.wikipedia.org/wiki/Violeta_Parra): Chilean folklorist, singer, songwriter.
 * Walter de Maria
 * Wayne Coyne
