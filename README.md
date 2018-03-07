@@ -68,12 +68,11 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Avey Tare [site](http://aveytare.com/) [wiki](https://en.wikipedia.org/wiki/Avey_Tare): American musician, songwriter, member of Animal Collective.
 * Bennett Foddy [site](http://www.foddy.net/) [wiki](https://en.wikipedia.org/wiki/Bennett_Foddy): Australian video game designer.
 * Beck [site](http://www.beck.com/) [wiki](https://en.wikipedia.org/wiki/Beck): American musician, singer, songwriter, multi-instrumentalist.
-* Beyoncé [site](https://www.beyonce.com/) [wiki](https://en.wikipedia.org/wiki/Beyonc%C3%A9): 
+* Beyoncé [site](https://www.beyonce.com/) [wiki](https://en.wikipedia.org/wiki/Beyonc%C3%A9): American singer, songwriter, dancer, actress.
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
-* Bob Dylan
-* Bon Iver
+* Bob Dylan [site](https://www.bobdylan.com/) [wiki](https://en.wikipedia.org/wiki/Bob_Dylan): American singer, songwriter, painter.
 * Brian Crabtree [site](https://nnnnnnnn.org/): co-founder of Monome.
-* Brian Eno
+* Brian Eno [site](http://www.brian-eno.net/) [wiki](https://en.wikipedia.org/wiki/Brian_Eno): English
 * Britney Spears
 * Camila Moreno
 * Carlos Cabezas
@@ -163,6 +162,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * The Beach Boys
 * Beach House
 * The Beatles
+* Bon Iver [site](https://boniver.org/) [wiki](https://en.wikipedia.org/wiki/Bon_Iver): American band, founded by Justin Vernon.
 * The Books
 * Café Tacuba
 * Caravana
@@ -244,6 +244,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Collectives
 
 * CADA: Colectivo de Acciones de Arte.
+* Electros [site](http://www.loselectros.com/): Chilean interdisciplinary collective, focusing on electronics and media arts.
 * F.A.T. Lab [site](http://fffff.at/): the Free Art and Technology La bis an organization dedicated to enriching the publicdomain through the research and development of creative technologies and media.
 * [Feel Train](https://en.wikipedia.org/wiki/Feel_Train): technology collaborative co-founded by Courtney Stanton and Darius Kazemi.
 
