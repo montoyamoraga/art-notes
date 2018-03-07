@@ -91,6 +91,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Dhruv Mehrotra
 * Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
 * Ernesto Neto [wiki](https://en.wikipedia.org/wiki/Ernesto_Neto): Brazilian visual artist.
+* Francesca Rodríguez-Sawaya [site](http://www.franrodriguezsawaya.com/): Peruvian designer, programmer and educator.
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
 * Ge Wang
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
@@ -477,6 +478,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Thesis
 
 * [Social Defense Mechanisms: Tools for Reclaiming our Personal Space](http://www.ladyada.net/media/pub/thesis.pdf): bachelor of science and master of engineering thesis by Limor Fried at MIT.
+* [Texere](http://www.franrodriguezsawaya.com/#/texere/): hand-woven, digitally-designed textile that physically represents oral stories, by Francesca Rodríguez-Sawaya.
 
 ## Tutorials
 
@@ -492,7 +494,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Wearables
 
-* [Hysterical wearable](https://renatagaui.com/hysterical-wearable.html): by Renata Gaui.
+* [Hysterical wearable](https://renatagaui.com/hysterical-wearable.html): wearable device that detects verbal microaggresions and reacts to them, by Renata Gaui.
 * [ScreamBody](http://web.media.mit.edu/~monster/screambody/):
 
 ## Websites
