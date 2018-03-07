@@ -62,8 +62,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Alanis Morissette [site](http://alanis.com/) [wiki](https://en.wikipedia.org/wiki/Alanis_Morissette): Canadian-American singer, songwriter, musician.
 * Alex Anwandter [site](http://www.alexanwandter.com/) [wiki](https://en.wikipedia.org/wiki/%C3%81lex_Anwandter): Chilean singer, songwriter, producer, filmmaker. Former member of Teleradio Donoso.
 * Allison Parrish [site](https://www.decontextualize.com/): American programmer, poet, educator, and game design.
-* Ana Tijoux [wiki](https://en.wikipedia.org/wiki/Ana_Tijoux): 
-* Andrés Calamaro
+* Ana Tijoux [wiki](https://en.wikipedia.org/wiki/Ana_Tijoux): French-Chilean musician, rapper. Former member of Makiza.
+* Andrés Calamaro []() []()
 * Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
 * Atom Heart
 * Avey Tare
@@ -88,6 +88,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Daniel Rozin
 * Daniel Shiffman [site](http://shiffman.net/) [wiki](https://en.wikipedia.org/wiki/Daniel_Shiffman): programmer, educator, project lead at the Processing Foundation, professor at NYU ITP.
 * Darius Kazemi [site](http://tinysubversions.com/) [wiki](https://en.wikipedia.org/wiki/Darius_Kazemi): internet artist, co-founder of technology collective Feel Train.
+* David Byrne
 * Dhruv Mehrotra
 * Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
 * Ernesto Neto [wiki](https://en.wikipedia.org/wiki/Ernesto_Neto): Brazilian visual artist.
@@ -194,6 +195,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Future Bible Heroes
 * Kraftwerk
 * The Magnetic Fields
+* Makiza
 * Matmos
 * Los Mil Jinetes
 * Pixies
