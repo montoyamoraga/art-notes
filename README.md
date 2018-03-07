@@ -55,14 +55,14 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Artists
 
-* Adanowsky
-* Adrian Belew
-* Ai Weiwei
+* Adán Jodorowsky [wiki](https://en.wikipedia.org/wiki/Adan_Jodorowsky): French-Mexican musician, director and actor.
+* Adrian Belew [wiki](https://en.wikipedia.org/wiki/Adrian_Belew): American guitarist, musician, songwriter.
+* Ai Weiwei [site](http://aiweiwei.com/) [wiki](https://en.wikipedia.org/wiki/Ai_Weiwei): Chinese contemporary artist and activist.
 * Alan Lomax [wiki](https://en.wikipedia.org/wiki/Alan_Lomax): American ethnomusicologist.
-* Alanis Morissette
-* Alex Anwandter
+* Alanis Morissette [site](http://alanis.com/) [wiki](https://en.wikipedia.org/wiki/Alanis_Morissette): Canadian-American singer, songwriter, musician.
+* Alex Anwandter [site](http://www.alexanwandter.com/) [wiki](https://en.wikipedia.org/wiki/%C3%81lex_Anwandter): Chilean singer, songwriter, producer, filmmaker. Former member of Teleradio Donoso.
 * Allison Parrish [site](https://www.decontextualize.com/): American programmer, poet, educator, and game design.
-* Ana Tijoux
+* Ana Tijoux [wiki](https://en.wikipedia.org/wiki/Ana_Tijoux): 
 * Andrés Calamaro
 * Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
 * Atom Heart
@@ -199,6 +199,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Pixies
 * Radiohead
 * Soda Stereo
+* Teleradio Donoso
 * Wu-Tang Clan
 * The xx
 
