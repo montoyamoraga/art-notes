@@ -2,7 +2,7 @@
 
 ## About
 
-art-notes is a list of art resources and references. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
+art-notes is a list of art references and resources. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
 Last updated on March 2018.
 
@@ -10,6 +10,12 @@ Thanks to the people that have contributed to the project, including:
 
 * [Caleb Ferguson](https://github.com/calebfergie)
 * [Nicolás Peña-Escarpentier](https://github.com/nicolaspe/)
+
+## Statement
+
+I am doing this because I always stumble upon beautiful art, and I want to share it, so that others can experience it too. It is also an exercise about being transparent and the politics and biases behind writing, indexing, privacy, identity, gender, open-source.
+
+## Contact
 
 If you have any comment, send an email to montoyamoraga@gmail.com in order to be deleted, or post an issue on this GitHub repository.
 
@@ -244,7 +250,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Collectives
 
 * CADA: Colectivo de Acciones de Arte.
-* Electros [site](http://www.loselectros.com/): Chilean interdisciplinary collective, focusing on electronics and media arts. Members include Camila Colussi, Margarita Gómez, Carla Motto, Raúl Valles Contador, Rodrigo Toro, Nicole L'Huillier.
+* Electros [site](http://www.loselectros.com/): Chilean interdisciplinary collective, focusing on electronics and media arts. Historic members include Camila Colussi, Margarita Gómez, Carla Motto, Raúl Valles Contador, Rodrigo Toro, Nicole L'Huillier.
 * F.A.T. Lab [site](http://fffff.at/): the Free Art and Technology La bis an organization dedicated to enriching the publicdomain through the research and development of creative technologies and media.
 * [Feel Train](https://en.wikipedia.org/wiki/Feel_Train): technology collaborative co-founded by Courtney Stanton and Darius Kazemi.
 
