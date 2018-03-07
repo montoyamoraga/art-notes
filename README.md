@@ -63,7 +63,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Alex Anwandter [site](http://www.alexanwandter.com/) [wiki](https://en.wikipedia.org/wiki/%C3%81lex_Anwandter): Chilean singer, songwriter, producer, filmmaker. Former member of Teleradio Donoso.
 * Allison Parrish [site](https://www.decontextualize.com/): American programmer, poet, educator, and game design.
 * Ana Tijoux [wiki](https://en.wikipedia.org/wiki/Ana_Tijoux): French-Chilean musician, rapper. Former member of Makiza.
-* Andrés Calamaro []() []()
+* Andrés Calamaro [site](http://www.calamaro.com/) [wiki](https://en.wikipedia.org/wiki/Andr%C3%A9s_Calamaro):  Argentine musician, singer, songwriter. Former member of Los Rodríguez.
 * Arca [wiki](https://en.wikipedia.org/wiki/Arca_(musician)): Venezuelan musician and producer.
 * Atom Heart
 * Avey Tare
@@ -200,6 +200,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Los Mil Jinetes
 * Pixies
 * Radiohead
+* Los Rodríguez
 * Soda Stereo
 * Teleradio Donoso
 * Wu-Tang Clan
