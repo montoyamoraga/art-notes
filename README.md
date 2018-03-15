@@ -78,12 +78,13 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
 * Bob Dylan [site](https://www.bobdylan.com/) [wiki](https://en.wikipedia.org/wiki/Bob_Dylan): American singer, songwriter, painter.
 * Brian Crabtree [site](https://nnnnnnnn.org/): co-founder of Monome.
-* Brian Eno [site](http://www.brian-eno.net/) [wiki](https://en.wikipedia.org/wiki/Brian_Eno): English
-* Britney Spears
-* Camila Moreno
-* Carlos Cabezas
-* Casey Reas
-* Cat Stevens
+* Brian Eno [site](http://www.brian-eno.net/) [wiki](https://en.wikipedia.org/wiki/Brian_Eno): English musician, composer, record producer.
+* Britney Spears [site](https://www.britneyspears.com/) [wiki](https://en.wikipedia.org/wiki/Britney_Spears): American singer, dancer, actress.
+* Camila Colussi [site](https://www.camilacolussi.com/): Chilean artist.
+* Camila Moreno [wiki](https://en.wikipedia.org/wiki/Camila_Moreno): Chilean singer-songwriter.
+* Carlos Cabezas Rocuant [wiki](https://es.wikipedia.org/wiki/Carlos_Cabezas_Rocuant): Chilean singer, songwriter, record producer. Member of band Electrodomésticos.
+* Casey Reas [site](http://reas.com/) [wiki](https://en.wikipedia.org/wiki/Casey_Reas): American artist, educator. Co-creator of Processing.
+* Cat Stevens [site](https://catstevens.com/) [wiki](https://en.wikipedia.org/wiki/Cat_Stevens): British singer-songwriter. Now goes by Yusuf Islam.
 * Chance the Rapper [wiki](https://en.wikipedia.org/wiki/Chance_the_Rapper): American rapper, singer and record producer.
 * Charly García
 * Christian Oyarzún [site](http://error404.cl/): Chilean artist, musician, programmer, educator.
@@ -130,7 +131,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Merce Cunningham [wiki](https://en.wikipedia.org/wiki/Merce_Cunningham): American dancer and choreographer.
 * Michael Stipe [wiki](https://en.wikipedia.org/wiki/Michael_Stipe): American musician, singer and songwriter, member of R.E.M.
 * Miller Puckette
-* Natalia Cabrera
+* Natalia Cabrera [site](http://www.nataliacabrera.com/): Chilean filmmaker, programmer, storyteller.
+* Natisú [site](http://www.natisu.com/): Chilean singer-songwriter.
 * Nels Cline
 * Nicanor Parra
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
