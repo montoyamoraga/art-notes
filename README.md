@@ -38,9 +38,11 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Interfaces](https://github.com/montoyamoraga/art-notes#interfaces)
 * [Labels](https://github.com/montoyamoraga/art-notes#labels)
 * [Museums](https://github.com/montoyamoraga/art-notes#museums)
+* [Nonprofits](https://github.com/montoyamoraga/art-notes#nonprofits)
 * [Orchestras](https://github.com/montoyamoraga/art-notes#orchestras)
 * [Organizations](https://github.com/montoyamoraga/art-notes#organizations)
 * [Perception](https://github.com/montoyamoraga/art-notes#perception)
+* [Personas](https://github.com/montoyamoraga/art-notes#personas)
 * [Pickups](https://github.com/montoyamoraga/art-notes#pickups)
 * [Playlists](https://github.com/montoyamoraga/art-notes#playlists)
 * [Prizes](https://github.com/montoyamoraga/art-notes#prizes)
@@ -86,39 +88,39 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Casey Reas [site](http://reas.com/) [wiki](https://en.wikipedia.org/wiki/Casey_Reas): American artist, educator. Co-creator of Processing.
 * Cat Stevens [site](https://catstevens.com/) [wiki](https://en.wikipedia.org/wiki/Cat_Stevens): British singer-songwriter. Now goes by Yusuf Islam.
 * Chance the Rapper [wiki](https://en.wikipedia.org/wiki/Chance_the_Rapper): American rapper, singer and record producer.
-* Charly García
+* Charly García [wiki](https://en.wikipedia.org/wiki/Charly_Garc%C3%ADa): Argentine singer-songwriter, musician, producer.
 * Christian Oyarzún [site](http://error404.cl/): Chilean artist, musician, programmer, educator.
-* Dafna Napthtali
-* Damien Hirst
-* Daniel Rozin
-* Daniel Shiffman [site](http://shiffman.net/) [wiki](https://en.wikipedia.org/wiki/Daniel_Shiffman): programmer, educator, project lead at the Processing Foundation, professor at NYU ITP.
+* Dafna Naphtali [site](http://dafna.info/): sound artist, vocalist, musician, educator.
+* Damien Hirst [site](http://www.damienhirst.com/) [wiki](https://en.wikipedia.org/wiki/Damien_Hirst): Englist artist.
+* Daniel Rozin [site](http://www.smoothware.com/danny/) [wiki](https://en.wikipedia.org/wiki/Danny_Rozin): Israeli-American artist, educator.
+* Daniel Shiffman [site](http://shiffman.net/) [wiki](https://en.wikipedia.org/wiki/Daniel_Shiffman): programmer, educator, project lead at the Processing Foundation.
 * Darius Kazemi [site](http://tinysubversions.com/) [wiki](https://en.wikipedia.org/wiki/Darius_Kazemi): internet artist, co-founder of technology collective Feel Train.
-* David Byrne
-* Dhruv Mehrotra
+* David Byrne [site](http://davidbyrne.com/) [wiki](https://en.wikipedia.org/wiki/David_Byrne): Scottish-American musician, singer, songwriter. Member of band Talking Heads.
+* Dhruv Mehrotra [site](http://www.dhruvmehrotra.info/): American artist, programmer.
 * Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
 * Ernesto Neto [wiki](https://en.wikipedia.org/wiki/Ernesto_Neto): Brazilian visual artist.
 * Francesca Rodríguez-Sawaya [site](http://www.franrodriguezsawaya.com/): Peruvian designer, programmer and educator.
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
-* Ge Wang
+* Ge Wang [site](http://www.gewang.com/) [wiki](https://en.wikipedia.org/wiki/Ge_Wang): Chinese-American musician, computer scientist, app designer, educator.
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
-* Golan Levin [site](http://www.flong.com/) [wiki](https://en.wikipedia.org/wiki/Golan_Levin): American new media artist and professor.
-* Gordon Matta-Clark
-* Gustavo Cerati
-* Hennesy Youngman [Youtube](https://www.youtube.com/channel/UC1kdURWGVjuksaqGK3oGoxA)
+* Golan Levin [site](http://www.flong.com/) [wiki](https://en.wikipedia.org/wiki/Golan_Levin): American new media artist, educator.
+* Gordon Matta-Clark [wiki](https://en.wikipedia.org/wiki/Gordon_Matta-Clark): American artist.
+* Gustavo Cerati [wiki](https://en.wikipedia.org/wiki/Gustavo_Cerati): Argentine singer-songwriter, composer, producer. Member of band Soda Stereo.
 * James Murphy: American musician, founder and frontman of LCD Soundsystem.
 * Javiera Mena [site](http://javieramena.com/) [wiki](https://en.wikipedia.org/wiki/Javiera_Mena): Chilean singer, songwriter.
+* Jayson Musson [wiki](https://en.wikipedia.org/wiki/Jayson_Musson): American artist.
 * Jeremy Bailey [site](http://jeremybailey.net/): American new media artist.
 * John Cage [wiki](https://en.wikipedia.org/wiki/John_Cage): American composer and music theorist.
-* John Maeda [site](https://maedastudio.com/) [wiki](https://en.wikipedia.org/wiki/John_Maeda): American designer and professor.
-* Jonny Greenwood
-* Jorge González
+* John Maeda [site](https://maedastudio.com/) [wiki](https://en.wikipedia.org/wiki/John_Maeda): American designer, educator.
+* Jonny Greenwood [wiki](https://en.wikipedia.org/wiki/Jonny_Greenwood): English guitarist, musician, composer. Member of band Radiohead.
+* Jorge González [wiki](https://en.wikipedia.org/wiki/Jorge_Gonz%C3%A1lez_(musician)): Chilean singer, songwriter, record producer. Member of band Los Prisioneros.
 * Joseph Beuys [wiki](https://en.wikipedia.org/wiki/Joseph_Beuys): German Fluxus, happening and performance artist.
 * Juan Downey [wiki](https://en.wikipedia.org/wiki/Juan_Downey) : Chilean video artist.
-* Kanye West
-* Kathleen Hanna
+* Kanye West [site](https://www.kanyewest.com/) [wiki](https://en.wikipedia.org/wiki/Kanye_West): American rapper, singer, songwriter, record producer.
+* Kathleen Hanna [site](http://www.kathleenhanna.com/) [wiki](https://en.wikipedia.org/wiki/Kathleen_Hanna): American singer, musician, artist, feminist activist. Member of bands Bikini Kill, Le Tigre, The Julie Ruin.
 * Kendrick Lamar [wiki](https://en.wikipedia.org/wiki/Kendrick_Lamar): American rapper and songwriter.
-* Kim Deal
-* Kim Gordon
+* Kim Deal [site](http://kimdealmusic.com/) [wiki](https://en.wikipedia.org/wiki/Kim_Deal): American singer, songwriter, musician. Member of bands Pixies, The Amps and The Breeders.
+* Kim Gordon [wiki](https://en.wikipedia.org/wiki/Kim_Gordon): American musician, singer, songwriter, visual artist. Member of band Sonic Youth.
 * Kyle McDonald [site](http://www.kylemcdonald.net/): American artist working with code.
 * Lauren McCarthy [site](http://lauren-mccarthy.com/): American multimedia artist, creator of [p5.js](https:s//p5js.org/).
 * Les Claypool [site](http://www.lesclaypool.com/) [wiki](https://en.wikipedia.org/wiki/Les_Claypool): American musician, singer, songwriter, and bassist. Member of Primus.
@@ -136,6 +138,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Nels Cline
 * Nicanor Parra
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
+* Rafael Gumucio
 * Rafaël Rozendaal
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Renata Gaui [site](https://renatagaui.com/): Brazilian designer and creative technologist.
@@ -380,6 +383,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * New Museum
 * Whitney
 
+## Nonprofits
+
+* Electronic Arts Intermix (EAI) [site](http://www.eai.org/) [wiki](https://en.wikipedia.org/wiki/Electronic_Arts_Intermix): nonprofit arts organization for video and media art.
+
 ## Orchestras
 
 * Plork
@@ -392,6 +399,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Perception
 
 * Human audio spectrum: humans can hear roughly between 20 Hz and 20 kHz.
+
+## Personas
+
+* Hennesy Youngman [wiki](https://en.wikipedia.org/wiki/Hennessy_Youngman): persona invented by Jayson Musson.
 
 ## Pickups
 
