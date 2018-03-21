@@ -140,7 +140,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Nicanor Parra
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Rafael Gumucio
-* Rafaël Rozendaal
+* Rafaël Rozendaal [site](https://www.newrafael.com/) [wiki](https://en.wikipedia.org/wiki/Rafa%C3%ABl_Rozendaal): Dutch-Brazilian visual artist.
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Renata Gaui [site](https://renatagaui.com/): Brazilian designer and creative technologist.
 * R. Luke Dubois
@@ -166,7 +166,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Bands
 
 * Animal Collective
-* Arcade Fire
+* Arcade Fire [site](https://www.everythingnow.com/) [wiki](https://en.wikipedia.org/wiki/Arcade_Fire): Canadian band.
 * Ases Falsos
 * Atoms for Peace
 * Audioslave
@@ -530,3 +530,4 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Websites
 
 * [downloadmybody.com](http://downloadmybody.com/): project by Joe Mango and Matt Romein. Website by Eve Weinberg and Or Fleisher.
+* [The Wilderness Downton](http://www.thewildernessdowntown.com/): interactive film built on HTML5.s
