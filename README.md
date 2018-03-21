@@ -31,6 +31,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Companies](https://github.com/montoyamoraga/art-notes#companies)
 * [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
 * [Conferences](https://github.com/montoyamoraga/art-notes#conferences)
+* [Festivals](https://github.com/montoyamoraga/art-notes#festivals)
 * [Films](https://github.com/montoyamoraga/art-notes#films)
 * [Foundations](https://github.com/montoyamoraga/art-notes#foundations)
 * [Games](https://github.com/montoyamoraga/art-notes#games)
@@ -301,6 +302,11 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Conferences
 
 * ICLC [site](http://iclc.livecodenetwork.org/): International Conference on Live Coding.
+
+## Festivals
+
+* Moxsonic: Missouri Experimental Sonic Arts [site](http://moxsonic.org/)
+* Primavera Hacker
 
 ## Films
 
