@@ -78,6 +78,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Bennett Foddy [site](http://www.foddy.net/) [wiki](https://en.wikipedia.org/wiki/Bennett_Foddy): Australian video game designer.
 * Beck [site](http://www.beck.com/) [wiki](https://en.wikipedia.org/wiki/Beck): American musician, singer, songwriter, multi-instrumentalist.
 * Beyoncé [site](https://www.beyonce.com/) [wiki](https://en.wikipedia.org/wiki/Beyonc%C3%A9): American singer, songwriter, dancer, actress.
+* Billy Kluver
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
 * Bob Dylan [site](https://www.bobdylan.com/) [wiki](https://en.wikipedia.org/wiki/Bob_Dylan): American singer, songwriter, painter.
 * Brian Crabtree [site](https://nnnnnnnn.org/): co-founder of Monome.
