@@ -4,12 +4,13 @@
 
 art-notes is a list of art references and resources. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
-Last updated on March 2018.
+Last updated on June 2018.
 
 Thanks to the people that have contributed to the project, including:
 
 * [Caleb Ferguson](https://github.com/calebfergie)
 * [Nicolás Peña-Escarpentier](https://github.com/nicolaspe/)
+* [Paula Leonvendagar](https://github.com/paulaleonv)
 
 ## Statement
 
@@ -25,12 +26,13 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Bands](https://github.com/montoyamoraga/art-notes#bands)
 * [Books](https://github.com/montoyamoraga/art-notes#books)
 * [Blogs](https://github.com/montoyamoraga/art-notes#blogs)
-* [Centers](https://github.com/montoyamoraga/art-notes#Centers)
+* [Centers](https://github.com/montoyamoraga/art-notes#centers)
 * [Classes](https://github.com/montoyamoraga/art-notes#classes)
 * [Collectives](https://github.com/montoyamoraga/art-notes#collectives)
 * [Companies](https://github.com/montoyamoraga/art-notes#companies)
 * [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
 * [Conferences](https://github.com/montoyamoraga/art-notes#conferences)
+* [Connectors](https://github.com/montoyamoraga/art-notes#connectors)
 * [Festivals](https://github.com/montoyamoraga/art-notes#festivals)
 * [Films](https://github.com/montoyamoraga/art-notes#films)
 * [Foundations](https://github.com/montoyamoraga/art-notes#foundations)
@@ -38,6 +40,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Instruments](https://github.com/montoyamoraga/art-notes#instruments)
 * [Interfaces](https://github.com/montoyamoraga/art-notes#interfaces)
 * [Labels](https://github.com/montoyamoraga/art-notes#labels)
+* [Microphones](https://github.com/montoyamoraga/art-notes#microphones)
 * [Museums](https://github.com/montoyamoraga/art-notes#museums)
 * [Nonprofits](https://github.com/montoyamoraga/art-notes#nonprofits)
 * [Orchestras](https://github.com/montoyamoraga/art-notes#orchestras)
@@ -46,6 +49,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Personas](https://github.com/montoyamoraga/art-notes#personas)
 * [Pickups](https://github.com/montoyamoraga/art-notes#pickups)
 * [Playlists](https://github.com/montoyamoraga/art-notes#playlists)
+* [Power](https://github.com/montoyamoraga/art-notes#power)
 * [Prizes](https://github.com/montoyamoraga/art-notes#prizes)
 * [Projects](https://github.com/montoyamoraga/art-notes#projects)
 * [Protocols](https://github.com/montoyamoraga/art-notes#protocols)
@@ -57,6 +61,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Shops](https://github.com/montoyamoraga/art-notes#shops)
 * [Software](https://github.com/montoyamoraga/art-notes#software)
 * [Studios](https://github.com/montoyamoraga/art-notes#studios)
+* [Synhesis](https://github.com/montoyamoraga/art-notes#synthesis)
+* [Theorems](https://github.com/montoyamoraga/art-notes#theorems)
 * [Thesis](https://github.com/montoyamoraga/art-notes#thesis)
 * [Tutorials](https://github.com/montoyamoraga/art-notes#tutorials)
 * [Venues](https://github.com/montoyamoraga/art-notes#venues)
@@ -78,7 +84,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Bennett Foddy [site](http://www.foddy.net/) [wiki](https://en.wikipedia.org/wiki/Bennett_Foddy): Australian video game designer.
 * Beck [site](http://www.beck.com/) [wiki](https://en.wikipedia.org/wiki/Beck): American musician, singer, songwriter, multi-instrumentalist.
 * Beyoncé [site](https://www.beyonce.com/) [wiki](https://en.wikipedia.org/wiki/Beyonc%C3%A9): American singer, songwriter, dancer, actress.
-* Billy Kluver
+* Billy Klüver [wiki](https://en.wikipedia.org/wiki/Billy_Kl%C3%BCver): electrical engineer at Bell Laboratories, founder of Experiments in Art and Technology.
 * Björk [site](https://bjork.com) [wiki](https://en.wikipedia.org/wiki/Bj%C3%B6rk): Icelandic music composer, vocalist, producer.
 * Bob Dylan [site](https://www.bobdylan.com/) [wiki](https://en.wikipedia.org/wiki/Bob_Dylan): American singer, songwriter, painter.
 * Brian Crabtree [site](https://nnnnnnnn.org/): co-founder of Monome.
@@ -97,6 +103,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Daniel Rozin [site](http://www.smoothware.com/danny/) [wiki](https://en.wikipedia.org/wiki/Danny_Rozin): Israeli-American artist, educator.
 * Daniel Shiffman [site](http://shiffman.net/) [wiki](https://en.wikipedia.org/wiki/Daniel_Shiffman): programmer, educator, project lead at the Processing Foundation.
 * Darius Kazemi [site](http://tinysubversions.com/) [wiki](https://en.wikipedia.org/wiki/Darius_Kazemi): internet artist, co-founder of technology collective Feel Train.
+* Dave Fridmann [wiki](https://en.wikipedia.org/wiki/Dave_Fridmann): American record producer.
 * David Byrne [site](http://davidbyrne.com/) [wiki](https://en.wikipedia.org/wiki/David_Byrne): Scottish-American musician, singer, songwriter. Member of band Talking Heads.
 * Dhruv Mehrotra [site](http://www.dhruvmehrotra.info/): American artist, programmer.
 * Drake [wiki](https://en.wikipedia.org/wiki/Drake_(musician)): Canadian rapper, singer and songwriter.
@@ -238,6 +245,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Hyperallergic
 * The King of Gear
 
+
 ## Centers
 
 * CCRMA
@@ -303,6 +311,16 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Conferences
 
 * ICLC [site](http://iclc.livecodenetwork.org/): International Conference on Live Coding.
+* NIME [site](http://www.nime.org/): New Interfaces for Musical Expression.
+
+## Connectors
+
+* Banana [wiki](https://en.wikipedia.org/wiki/Banana_connector)
+* DIN [wiki](https://en.wikipedia.org/wiki/DIN_connector)
+* Phone [wiki](https://en.wikipedia.org/wiki/Phone_connector_(audio))
+* RCA [wiki](https://en.wikipedia.org/wiki/RCA_connector)
+* Speakon [wiki](https://en.wikipedia.org/wiki/Speakon_connector)
+* XLR [wiki](https://en.wikipedia.org/wiki/XLR_connector)
 
 ## Festivals
 
@@ -361,6 +379,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Roland TR-808
 * Teenage Engineering OP-1
 * Theremin
+* Turntable
 
 ## Interfaces
 
@@ -379,6 +398,15 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * Arduino
 * Teensy
+
+## Microphones
+
+* Condenser [wiki](https://en.wikipedia.org/wiki/Microphone#Condenser_microphone)
+* Dynamic [wiki](https://en.wikipedia.org/wiki/Microphone#Dynamic_microphone)
+* Ribbon [wiki](https://en.wikipedia.org/wiki/Ribbon_microphone)
+* Shure SM57 [wiki](https://en.wikipedia.org/wiki/Shure_SM57)
+* Shure SM58 [wiki](https://en.wikipedia.org/wiki/Shure_SM58)
+
 
 ## Museums
 
@@ -419,6 +447,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * ...
 
+## Power
+
+* Phantom power [wiki](https://en.wikipedia.org/wiki/Phantom_power)
+
 ## Prizes
 
 * [Turner Prize](https://en.wikipedia.org/wiki/Turner_Prize): Annual prize presented to a British visual artist.
@@ -429,9 +461,16 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Protocols
 
+* Firewire
 * MIDI
 * OSC
 * Serial
+* Thunderbolt
+* USB 1.0
+* USB 2.0
+* USB 3.0
+* USB-C
+
 
 ## Publishers
 
@@ -471,8 +510,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Software
 
-* Ableton Live
-* Apple Logic Pro
+* Ableton Live [site][https://www.ableton.com/] [wiki](https://en.wikipedia.org/wiki/Ableton_Live): digital audio workstation.
+* Apple Logic Pro [site](https://www.apple.com/logic-pro/) [wiki](https://en.wikipedia.org/wiki/Logic_Pro): digital audio workstation.
 * [audiogrep](http://antiboredom.github.io/audiogrep/): audio supercut tool, by Sam Lavigne.
 * [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
 * Garageband
@@ -483,13 +522,13 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [p5.js](https://cycling74.com/): JavaScript library for programming within the context of visual arts. Developed by Lauren McCarthy
 * [Paul's extreme sound stretch](http://hypermammut.sourceforge.net/paulstretch/)
 * [Processing](https://processing.org/): flexible software sketchbook and language for learning how to code within the context of the visual arts. Developed by Ben Fry and Casey Reas.
-* Pro Tools
+* Pro Tools [site](http://www.avid.com/pro-tools) [wiki](https://en.wikipedia.org/wiki/Pro_Tools): digital audio workstation.
 * [Pure Data](http://puredata.info/): open-source visual programming language for multimedia. Developed by Miller Puckette.
-* Reason
-* Sonic Pi
-* superCollider
+* Reason [site](https://www.propellerheads.se/) [wiki](https://en.wikipedia.org/wiki/Reason_(software)): digital audio workstation.
+* Sonic Pi [site](https://sonic-pi.net/) [wiki](https://en.wikipedia.org/wiki/Sonic_Pi): live coding music software.
+* SuperCollider [site](https://supercollider.github.io/) [wiki](https://en.wikipedia.org/wiki/SuperCollider): audio environment and programming language.
 * [three.js](https://threejs.org/)
-* tone.js
+* tone.js [site](https://tonejs.github.io/): JavaScript library for audio synthesis and manipulation, by Yotam Mann.
 * touchOSC
 * Unity
 * Unreal Engine
@@ -505,6 +544,28 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Dave & Gabe](http://www.daveandgabe.care/)
 * [Random Studio](http://random.studio/)
 * [Wearable Media](https://www.wearablemedia.studio/)
+
+## Synthesis
+
+* Additive [wiki](https://en.wikipedia.org/wiki/Additive_synthesis)
+* Amplitude modulation AM [wiki](https://en.wikipedia.org/wiki/Amplitude_modulation)
+* Banded waveguide [wiki](https://en.wikipedia.org/wiki/Banded_waveguide_synthesis)
+* Digital waveguide [wiki](https://en.wikipedia.org/wiki/Digital_waveguide_synthesis)
+* Distortion [wiki](https://en.wikipedia.org/wiki/Distortion_synthesis)
+* Frequency modulation FM [wiki](https://en.wikipedia.org/wiki/Frequency_modulation_synthesis)
+* Granular [wiki](https://en.wikipedia.org/wiki/Granular_synthesis)
+* Karplus-Strong [wiki](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis)
+* Linear arithmetic [wiki](https://en.wikipedia.org/wiki/Linear_Arithmetic_synthesis)
+* Phase distortion [wiki](https://en.wikipedia.org/wiki/Phase_distortion_synthesis)
+* Scanned [wiki](https://en.wikipedia.org/wiki/Scanned_synthesis)
+* Speech [wiki](https://en.wikipedia.org/wiki/Speech_synthesis)
+* Substractive [wiki](https://en.wikipedia.org/wiki/Subtractive_synthesis)
+* Vector [wiki](https://en.wikipedia.org/wiki/Vector_synthesis)
+* Wavetable [wiki](https://en.wikipedia.org/wiki/Wavetable_synthesis)
+
+## Theorems
+
+* Sampling theorem [wiki](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
 
 ## Thesis
 
