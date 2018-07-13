@@ -21,46 +21,48 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Table of contents
 
-* [Artists](https://github.com/montoyamoraga/art-notes#artists)
-* [Bands](https://github.com/montoyamoraga/art-notes#bands)
-* [Books](https://github.com/montoyamoraga/art-notes#books)
-* [Blogs](https://github.com/montoyamoraga/art-notes#blogs)
-* [Centers](https://github.com/montoyamoraga/art-notes#Centers)
-* [Classes](https://github.com/montoyamoraga/art-notes#classes)
-* [Collectives](https://github.com/montoyamoraga/art-notes#collectives)
-* [Companies](https://github.com/montoyamoraga/art-notes#companies)
-* [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
-* [Conferences](https://github.com/montoyamoraga/art-notes#conferences)
-* [Festivals](https://github.com/montoyamoraga/art-notes#festivals)
-* [Films](https://github.com/montoyamoraga/art-notes#films)
-* [Foundations](https://github.com/montoyamoraga/art-notes#foundations)
-* [Games](https://github.com/montoyamoraga/art-notes#games)
-* [Instruments](https://github.com/montoyamoraga/art-notes#instruments)
-* [Interfaces](https://github.com/montoyamoraga/art-notes#interfaces)
-* [Labels](https://github.com/montoyamoraga/art-notes#labels)
-* [Museums](https://github.com/montoyamoraga/art-notes#museums)
-* [Nonprofits](https://github.com/montoyamoraga/art-notes#nonprofits)
-* [Orchestras](https://github.com/montoyamoraga/art-notes#orchestras)
-* [Organizations](https://github.com/montoyamoraga/art-notes#organizations)
-* [Perception](https://github.com/montoyamoraga/art-notes#perception)
-* [Personas](https://github.com/montoyamoraga/art-notes#personas)
-* [Pickups](https://github.com/montoyamoraga/art-notes#pickups)
-* [Playlists](https://github.com/montoyamoraga/art-notes#playlists)
-* [Prizes](https://github.com/montoyamoraga/art-notes#prizes)
-* [Projects](https://github.com/montoyamoraga/art-notes#projects)
-* [Protocols](https://github.com/montoyamoraga/art-notes#protocols)
-* [Publishers](https://github.com/montoyamoraga/art-notes#publishers)
-* [Records](https://github.com/montoyamoraga/art-notes#records)
-* [Research centers](https://github.com/montoyamoraga/art-notes#research-centers)
-* [Schools](https://github.com/montoyamoraga/art-notes#schools)
-* [Sensors](https://github.com/montoyamoraga/art-notes#sensors)
-* [Shops](https://github.com/montoyamoraga/art-notes#shops)
-* [Software](https://github.com/montoyamoraga/art-notes#software)
-* [Studios](https://github.com/montoyamoraga/art-notes#studios)
-* [Thesis](https://github.com/montoyamoraga/art-notes#thesis)
-* [Tutorials](https://github.com/montoyamoraga/art-notes#tutorials)
-* [Venues](https://github.com/montoyamoraga/art-notes#venues)
-* [Websites](https://github.com/montoyamoraga/art-notes#websites)
+* [Artists](#artists)
+* [Bands](#bands)
+* [Books](#books)
+* [Blogs](#blogs)
+* [Centers](#Centers)
+* [Classes](#classes)
+* [Collectives](#collectives)
+* [Companies](#companies)
+* [Compositions](#compositions)
+* [Conferences](#conferences)
+* [Festivals](#festivals)
+* [Films](#films)
+* [Foundations](#foundations)
+* [Games](#games)
+* [Instruments](#instruments)
+* [Interfaces](#interfaces)
+* [Labels](#labels)
+* [Museums](#museums)
+* [Nonprofits](#nonprofits)
+* [Orchestras](#orchestras)
+* [Organizations](#organizations)
+* [Perception](#perception)
+* [Personas](#personas)
+* [Pickups](#pickups)
+* [Playlists](#playlists)
+* [Prizes](#prizes)
+* [Projects](#projects)
+* [Protocols](#protocols)
+* [Publishers](#publishers)
+* [Records](#records)
+* [Research centers](#research-centers)
+* [Schools](#schools)
+* [Sensors](#sensors)
+* [Sequencers](#sequencers)
+* [Shops](#shops)
+* [Software](#software)
+* [Studios](#studios)
+* [Synthesis](#synthesis)
+* [Thesis](#thesis)
+* [Tutorials](#tutorials)
+* [Venues](#venues)
+* [Websites](#websites)
 
 ## Artists
 
@@ -141,6 +143,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Rafael Gumucio
 * Rafaël Rozendaal [site](https://www.newrafael.com/) [wiki](https://en.wikipedia.org/wiki/Rafa%C3%ABl_Rozendaal): Dutch-Brazilian visual artist.
+* Ramsey Nasser [site](http://nas.sr/): Lebanese computer scientist, game designer, and educator.
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Renata Gaui [site](https://renatagaui.com/): Brazilian designer and creative technologist.
 * R. Luke Dubois
@@ -180,6 +183,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Caravana
 * Chico Trujillo
 * The Clash
+* clipping [site](http://www.clppng.com/) [wiki](https://en.wikipedia.org/wiki/Clipping_(band))
 * CocoRosie
 * Cocteau Twins
 * Congreso
@@ -229,6 +233,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Marcel Duchamp The Afternoon Interviews, by Calvin Tomkins
 * Microsound, by Curtis Roads
 * Oblique Strategies [wiki](https://en.wikipedia.org/wiki/Oblique_Strategies), by Brian Eno and Peter Schmidt.
+* [Programming electronic music in PD](http://www.pd-tutorial.com/), by Johannes Kreidler
 * Programming for musicians and digital artists, by Ge Wang et al.
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
 
@@ -400,11 +405,15 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Organizations
 
-* Rhizome
+* [Algorave](https://algorave.com/)
+* [Rhizome](http://rhizome.org/)
+* [TOPLAP](https://toplap.org/)
 
 ## Perception
 
+* [Equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour)
 * Human audio spectrum: humans can hear roughly between 20 Hz and 20 kHz.
+
 
 ## Personas
 
@@ -456,6 +465,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Kinect One
 * Wii
 
+## Sequencers
+
+* [Make Noise René](http://www.makenoisemusic.com/modules/rene): cartesian sequencer.
+
 ## Shops
 
 * AC Gears
@@ -504,6 +517,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Dave & Gabe](http://www.daveandgabe.care/)
 * [Random Studio](http://random.studio/)
 * [Wearable Media](https://www.wearablemedia.studio/)
+
+## Synthesis
+
+* [Hard sync](https://en.wikipedia.org/wiki/Oscillator_sync#Hard_Sync)
 
 ## Thesis
 
