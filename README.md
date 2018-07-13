@@ -4,7 +4,7 @@
 
 art-notes is a list of art references and resources. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
-Last updated on June 2018.
+Last updated on July 2018.
 
 Thanks to the people that have contributed to the project, including:
 
