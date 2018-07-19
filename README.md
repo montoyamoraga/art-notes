@@ -268,6 +268,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * CADA: Colectivo de Acciones de Arte.
 * Electros [site](http://www.loselectros.com/): Chilean interdisciplinary collective, focusing on electronics and media arts. Historic members include Camila Colussi, Margarita Gómez, Carla Motto, Raúl Valles Contador, Rodrigo Toro, Nicole L'Huillier.
+* Electronic Disturbance Theater [wiki](https://en.wikipedia.org/wiki/Electronic_Disturbance_Theater)
 * F.A.T. Lab [site](http://fffff.at/): the Free Art and Technology La bis an organization dedicated to enriching the publicdomain through the research and development of creative technologies and media.
 * [Feel Train](https://en.wikipedia.org/wiki/Feel_Train): technology collaborative co-founded by Courtney Stanton and Darius Kazemi.
 
@@ -307,7 +308,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * [Electronic civil desobedience](https://en.wikipedia.org/wiki/Electronic_civil_disobedience)
 
-()## Computers
+## Computers
 
 * Apple Macbook
 * Apple Macbook Air
