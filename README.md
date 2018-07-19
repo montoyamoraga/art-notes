@@ -275,6 +275,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Companies
 
 * Ableton
+* Acidlab
 * Adafruit
 * Apple
 * Arduino
@@ -284,6 +285,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Google
 * Fender
 * Gibson
+* Jomox
 * Keith McMillen
 * Korg
 * Make Noise
@@ -532,6 +534,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [audiogrep](http://antiboredom.github.io/audiogrep/): audio supercut tool, by Sam Lavigne.
 * [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
 * Garageband
+* Kinectron
 * [Max](https://cycling74.com/): visual programming environment for multimedia synthesis and manipulation.
 * [MadMapper](http://madmapper.com/)
 * [Millumin](http://www.millumin.com/)
