@@ -31,6 +31,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Collectives](#collectives)
 * [Companies](#companies)
 * [Compositions](#compositions)
+* [Concepts](#concepts)
 * [Conferences](#conferences)
 * [Festivals](#festivals)
 * [Films](#films)
@@ -149,6 +150,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Ramsey Nasser [site](http://nas.sr/): Lebanese computer scientist, game designer, and educator.
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Renata Gaui [site](https://renatagaui.com/): Brazilian designer and creative technologist.
+* Ricardo Dominguez [wiki](https://en.wikipedia.org/wiki/Ricardo_Dominguez_(professor)): American artist, professor, founder of Electronic Disturbance Theater.
 * R. Luke Dubois
 * Rodrigo Cadiz [site](http://www.rodrigocadiz.com/) [wiki](https://en.wikipedia.org/wiki/Rodrigo_Cadiz) Chilean composer, researcher and engineer.
 * Roger Linn
@@ -301,11 +303,17 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * [Imaginary Landscape](https://en.wikipedia.org/wiki/Imaginary_Landscape): collection of pieces by John Cage.
 
-## Computers
+## Concepts
+
+* [Electronic civil desobedience](https://en.wikipedia.org/wiki/Electronic_civil_disobedience)
+
+()## Computers
 
 * Apple Macbook
 * Apple Macbook Air
 * Apple Macbook Pro
+* Atari
+* Google Chromebook
 * Raspberry Pi
 
 ## Conferences
