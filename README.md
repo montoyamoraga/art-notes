@@ -4,7 +4,11 @@
 
 art-notes is a list of art references and resources. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
+<<<<<<< HEAD
 Last updated on August 2018.
+=======
+Last updated on July 2018.
+>>>>>>> e8b83030ed97238cc66ca4de4e599fd82119e7bb
 
 Thanks to the people that have contributed to the project, including:
 
@@ -22,51 +26,49 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Table of contents
 
-* [Artists](https://github.com/montoyamoraga/art-notes#artists)
-* [Bands](https://github.com/montoyamoraga/art-notes#bands)
-* [Books](https://github.com/montoyamoraga/art-notes#books)
-* [Blogs](https://github.com/montoyamoraga/art-notes#blogs)
-* [Centers](https://github.com/montoyamoraga/art-notes#centers)
-* [Classes](https://github.com/montoyamoraga/art-notes#classes)
-* [Collectives](https://github.com/montoyamoraga/art-notes#collectives)
-* [Companies](https://github.com/montoyamoraga/art-notes#companies)
-* [Compositions](https://github.com/montoyamoraga/art-notes#compositions)
-* [Conferences](https://github.com/montoyamoraga/art-notes#conferences)
-* [Connectors](https://github.com/montoyamoraga/art-notes#connectors)
-* [Festivals](https://github.com/montoyamoraga/art-notes#festivals)
-* [Films](https://github.com/montoyamoraga/art-notes#films)
-* [Foundations](https://github.com/montoyamoraga/art-notes#foundations)
-* [Games](https://github.com/montoyamoraga/art-notes#games)
-* [Instruments](https://github.com/montoyamoraga/art-notes#instruments)
-* [Interfaces](https://github.com/montoyamoraga/art-notes#interfaces)
-* [Labels](https://github.com/montoyamoraga/art-notes#labels)
-* [Microphones](https://github.com/montoyamoraga/art-notes#microphones)
-* [Museums](https://github.com/montoyamoraga/art-notes#museums)
-* [Nonprofits](https://github.com/montoyamoraga/art-notes#nonprofits)
-* [Orchestras](https://github.com/montoyamoraga/art-notes#orchestras)
-* [Organizations](https://github.com/montoyamoraga/art-notes#organizations)
-* [Perception](https://github.com/montoyamoraga/art-notes#perception)
-* [Personas](https://github.com/montoyamoraga/art-notes#personas)
-* [Pickups](https://github.com/montoyamoraga/art-notes#pickups)
-* [Playlists](https://github.com/montoyamoraga/art-notes#playlists)
-* [Power](https://github.com/montoyamoraga/art-notes#power)
-* [Prizes](https://github.com/montoyamoraga/art-notes#prizes)
-* [Projects](https://github.com/montoyamoraga/art-notes#projects)
-* [Protocols](https://github.com/montoyamoraga/art-notes#protocols)
-* [Publishers](https://github.com/montoyamoraga/art-notes#publishers)
-* [Records](https://github.com/montoyamoraga/art-notes#records)
-* [Research centers](https://github.com/montoyamoraga/art-notes#research-centers)
-* [Schools](https://github.com/montoyamoraga/art-notes#schools)
-* [Sensors](https://github.com/montoyamoraga/art-notes#sensors)
-* [Shops](https://github.com/montoyamoraga/art-notes#shops)
-* [Software](https://github.com/montoyamoraga/art-notes#software)
-* [Studios](https://github.com/montoyamoraga/art-notes#studios)
-* [Synhesis](https://github.com/montoyamoraga/art-notes#synthesis)
-* [Theorems](https://github.com/montoyamoraga/art-notes#theorems)
-* [Thesis](https://github.com/montoyamoraga/art-notes#thesis)
-* [Tutorials](https://github.com/montoyamoraga/art-notes#tutorials)
-* [Venues](https://github.com/montoyamoraga/art-notes#venues)
-* [Websites](https://github.com/montoyamoraga/art-notes#websites)
+* [Artists](#artists)
+* [Bands](#bands)
+* [Books](#books)
+* [Blogs](#blogs)
+* [Centers](#Centers)
+* [Classes](#classes)
+* [Collectives](#collectives)
+* [Companies](#companies)
+* [Compositions](#compositions)
+* [Concepts](#concepts)
+* [Conferences](#conferences)
+* [Festivals](#festivals)
+* [Films](#films)
+* [Foundations](#foundations)
+* [Games](#games)
+* [Instruments](#instruments)
+* [Interfaces](#interfaces)
+* [Labels](#labels)
+* [Museums](#museums)
+* [Nonprofits](#nonprofits)
+* [Orchestras](#orchestras)
+* [Organizations](#organizations)
+* [Perception](#perception)
+* [Personas](#personas)
+* [Pickups](#pickups)
+* [Playlists](#playlists)
+* [Prizes](#prizes)
+* [Projects](#projects)
+* [Protocols](#protocols)
+* [Publishers](#publishers)
+* [Records](#records)
+* [Research centers](#research-centers)
+* [Schools](#schools)
+* [Sensors](#sensors)
+* [Sequencers](#sequencers)
+* [Shops](#shops)
+* [Software](#software)
+* [Studios](#studios)
+* [Synthesis](#synthesis)
+* [Thesis](#thesis)
+* [Tutorials](#tutorials)
+* [Venues](#venues)
+* [Websites](#websites)
 
 ## Artists
 
@@ -149,8 +151,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Rafael Gumucio
 * Rafaël Rozendaal [site](https://www.newrafael.com/) [wiki](https://en.wikipedia.org/wiki/Rafa%C3%ABl_Rozendaal): Dutch-Brazilian visual artist.
+* Ramsey Nasser [site](http://nas.sr/): Lebanese computer scientist, game designer, and educator.
 * Raúl Zurita [wiki](https://en.wikipedia.org/wiki/Ra%C3%BAl_Zurita): Chilean poet, part of the CADA collective.
 * Renata Gaui [site](https://renatagaui.com/): Brazilian designer and creative technologist.
+* Ricardo Dominguez [wiki](https://en.wikipedia.org/wiki/Ricardo_Dominguez_(professor)): American artist, professor, founder of Electronic Disturbance Theater.
 * R. Luke Dubois
 * Rodrigo Cadiz [site](http://www.rodrigocadiz.com/) [wiki](https://en.wikipedia.org/wiki/Rodrigo_Cadiz) Chilean composer, researcher and engineer.
 * Roger Linn
@@ -188,6 +192,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Caravana
 * Chico Trujillo
 * The Clash
+* clipping [site](http://www.clppng.com/) [wiki](https://en.wikipedia.org/wiki/Clipping_(band))
 * CocoRosie
 * Cocteau Twins
 * Congreso
@@ -237,6 +242,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Marcel Duchamp The Afternoon Interviews, by Calvin Tomkins
 * Microsound, by Curtis Roads
 * Oblique Strategies [wiki](https://en.wikipedia.org/wiki/Oblique_Strategies), by Brian Eno and Peter Schmidt.
+* [Programming electronic music in PD](http://www.pd-tutorial.com/), by Johannes Kreidler
 * Programming for musicians and digital artists, by Ge Wang et al.
 * Seeing Is Forgetting the Name of the Thing One Sees, by Lawrence Weschler, over thirty years of conversation with Robert Irwin.
 
@@ -266,12 +272,14 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * CADA: Colectivo de Acciones de Arte.
 * Electros [site](http://www.loselectros.com/): Chilean interdisciplinary collective, focusing on electronics and media arts. Historic members include Camila Colussi, Margarita Gómez, Carla Motto, Raúl Valles Contador, Rodrigo Toro, Nicole L'Huillier.
+* Electronic Disturbance Theater [wiki](https://en.wikipedia.org/wiki/Electronic_Disturbance_Theater)
 * F.A.T. Lab [site](http://fffff.at/): the Free Art and Technology La bis an organization dedicated to enriching the publicdomain through the research and development of creative technologies and media.
 * [Feel Train](https://en.wikipedia.org/wiki/Feel_Train): technology collaborative co-founded by Courtney Stanton and Darius Kazemi.
 
 ## Companies
 
 * Ableton
+* Acidlab
 * Adafruit
 * Apple
 * Arduino
@@ -281,6 +289,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Google
 * Fender
 * Gibson
+* Jomox
 * Keith McMillen
 * Korg
 * Make Noise
@@ -301,11 +310,17 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * [Imaginary Landscape](https://en.wikipedia.org/wiki/Imaginary_Landscape): collection of pieces by John Cage.
 
+## Concepts
+
+* [Electronic civil desobedience](https://en.wikipedia.org/wiki/Electronic_civil_disobedience)
+
 ## Computers
 
 * Apple Macbook
 * Apple Macbook Air
 * Apple Macbook Pro
+* Atari
+* Google Chromebook
 * Raspberry Pi
 
 ## Conferences
@@ -430,11 +445,15 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Organizations
 
-* Rhizome
+* [Algorave](https://algorave.com/)
+* [Rhizome](http://rhizome.org/)
+* [TOPLAP](https://toplap.org/)
 
 ## Perception
 
+* [Equal-loudness contour](https://en.wikipedia.org/wiki/Equal-loudness_contour)
 * Human audio spectrum: humans can hear roughly between 20 Hz and 20 kHz.
+
 
 ## Personas
 
@@ -497,6 +516,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Kinect One
 * Wii
 
+## Sequencers
+
+* [Make Noise René](http://www.makenoisemusic.com/modules/rene): cartesian sequencer.
+
 ## Shops
 
 * AC Gears
@@ -516,6 +539,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [audiogrep](http://antiboredom.github.io/audiogrep/): audio supercut tool, by Sam Lavigne.
 * [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
 * Garageband
+* Kinectron
 * [Max](https://cycling74.com/): visual programming environment for multimedia synthesis and manipulation.
 * [MadMapper](http://madmapper.com/)
 * [Millumin](http://www.millumin.com/)
@@ -548,25 +572,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Synthesis
 
-* Additive [wiki](https://en.wikipedia.org/wiki/Additive_synthesis)
-* Amplitude modulation AM [wiki](https://en.wikipedia.org/wiki/Amplitude_modulation)
-* Banded waveguide [wiki](https://en.wikipedia.org/wiki/Banded_waveguide_synthesis)
-* Digital waveguide [wiki](https://en.wikipedia.org/wiki/Digital_waveguide_synthesis)
-* Distortion [wiki](https://en.wikipedia.org/wiki/Distortion_synthesis)
-* Frequency modulation FM [wiki](https://en.wikipedia.org/wiki/Frequency_modulation_synthesis)
-* Granular [wiki](https://en.wikipedia.org/wiki/Granular_synthesis)
-* Karplus-Strong [wiki](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis)
-* Linear arithmetic [wiki](https://en.wikipedia.org/wiki/Linear_Arithmetic_synthesis)
-* Phase distortion [wiki](https://en.wikipedia.org/wiki/Phase_distortion_synthesis)
-* Scanned [wiki](https://en.wikipedia.org/wiki/Scanned_synthesis)
-* Speech [wiki](https://en.wikipedia.org/wiki/Speech_synthesis)
-* Substractive [wiki](https://en.wikipedia.org/wiki/Subtractive_synthesis)
-* Vector [wiki](https://en.wikipedia.org/wiki/Vector_synthesis)
-* Wavetable [wiki](https://en.wikipedia.org/wiki/Wavetable_synthesis)
-
-## Theorems
-
-* Sampling theorem [wiki](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
+* [Hard sync](https://en.wikipedia.org/wiki/Oscillator_sync#Hard_Sync)
 
 ## Thesis
 
@@ -593,4 +599,4 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Websites
 
 * [downloadmybody.com](http://downloadmybody.com/): project by Joe Mango and Matt Romein. Website by Eve Weinberg and Or Fleisher.
-* [The Wilderness Downton](http://www.thewildernessdowntown.com/): interactive film built on HTML5.s
+* [The Wilderness Downtown](http://www.thewildernessdowntown.com/): interactive film built on HTML5.s
