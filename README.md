@@ -4,7 +4,7 @@
 
 art-notes is a list of art references and resources. It is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
-Last updated on June 2018.
+Last updated on August 2018.
 
 Thanks to the people that have contributed to the project, including:
 
@@ -324,6 +324,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Festivals
 
+* [Grow](http://www.grow.paris/): Paris creative coding festival
 * Moxsonic: Missouri Experimental Sonic Arts [site](http://moxsonic.org/)
 * Primavera Hacker
 
