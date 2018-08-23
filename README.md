@@ -227,8 +227,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Books
 
-* composing electronic music, curtis roads
-* computer music tutorial, curtis roads
+* Composing electronic music, curtis roads
+* [Computer music tutorial](https://mitpress.mit.edu/books/computer-music-tutorial), by Curtis Roads
 * electronic music - systems, techniques and controls, by allen strange
 * Grapefruit, by Yoko Ono
 * Handmade Electronic Music, by Nicolas Collins
@@ -287,10 +287,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Keith McMillen
 * Korg
 * Make Noise
-* Monome
+* [Monome](https://monome.org/)
 * Moog
 * Motu
-* Mutable Instruments
+* [Mutable Instruments](https://mutable-instruments.net/)
 * Nintendo
 * Roland
 * Roli
@@ -298,7 +298,9 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Sony
 * Spotify
 * Tidal
-* Whimsical Raps [site](https://shop.whimsicalraps.com/)
+* Universal Audio
+* [Walrus Audio](https://www.walrusaudio.com/)
+* Whimsical Raps [site](http://whimsicalraps.com/)
 
 ## Compositions
 
@@ -375,7 +377,6 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Korg microKorg
 * Korg Monotron
 * Korg Volca
-* Sony
 * Fender Jaguar
 * Fender Jazz Bass
 * Fender Jazzmaster
@@ -383,13 +384,20 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Fender Stratocaster
 * Fender Telecaster
 * LinnStrument
+* [Make Noise Morphagene](http://www.makenoisemusic.com/modules/morphagene)
+* [Make Noise René](http://www.makenoisemusic.com/modules/rene)
+* [Moog DFAM(Drummer From Another Mother)](https://www.moogmusic.com/products/semi-modular/dfam-drummer-another-mother)
+* [Moog Mother-32](https://www.moogmusic.com/products/semi-modular/mother-32)
 * Ondes Martenot
+* [0rnament & crime](http://ornament-and-cri.me/)
 * Otamatone
 * Reactable
 * Roland TR-808
+* Sony Walkman
 * Teenage Engineering OP-1
 * Theremin
 * Turntable
+* [Walrus Audio Janus Fuzz / Tremolo](https://www.walrusaudio.com/collections/fuzz/products/janus-fuzz-tremolo)
 
 ## Interfaces
 
