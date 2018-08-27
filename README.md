@@ -269,6 +269,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Electronic Disturbance Theater [wiki](https://en.wikipedia.org/wiki/Electronic_Disturbance_Theater)
 * F.A.T. Lab [site](http://fffff.at/): the Free Art and Technology La bis an organization dedicated to enriching the publicdomain through the research and development of creative technologies and media.
 * [Feel Train](https://en.wikipedia.org/wiki/Feel_Train): technology collaborative co-founded by Courtney Stanton and Darius Kazemi.
+* Young-Hae Chang Heavy Industries [site](http://www.yhchang.com/) [wiki](https://en.wikipedia.org/wiki/Young-Hae_Chang_Heavy_Industries)
 
 ## Companies
 
