@@ -38,6 +38,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Instruments](#instruments)
 * [Interfaces](#interfaces)
 * [Labels](#labels)
+* [Libraries](#libraries)
 * [Museums](#museums)
 * [Nonprofits](#nonprofits)
 * [Orchestras](#orchestras)
@@ -412,6 +413,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * 4AD
 * Algo records
 * Factory
+
+## Libraries
+
+* [British Library Sounds](https://sounds.bl.uk/)
 
 ## Microcontrollers
 
