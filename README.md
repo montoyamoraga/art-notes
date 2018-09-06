@@ -433,6 +433,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Dia Beacon
 * MOMA
 * Met
+* MIMO [site](http://www.mimo-international.com/MIMO/): musical instruments museums online
 * Museum of Arts and Design (MAD)
 * New Museum
 * Whitney
