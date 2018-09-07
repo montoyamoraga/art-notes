@@ -47,6 +47,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Personas](#personas)
 * [Pickups](#pickups)
 * [Playlists](#playlists)
+* [Podcasts](#podcasts)
 * [Prizes](#prizes)
 * [Projects](#projects)
 * [Protocols](#protocols)
@@ -344,6 +345,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Films
 
 * [El Topo](https://en.wikipedia.org/wiki/El_Topo): (1970) movie by Alejandro Jodorowsky.
+* [TerrorVision](https://en.wikipedia.org/wiki/TerrorVision)
+* [They Live](https://en.wikipedia.org/wiki/They_Live)
 * The Wall, Pink Floyd
 
 ## Formats
@@ -475,6 +478,10 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Playlists
 
 * ...
+
+## Podcasts
+
+* [Art + Music + Technology](http://artmusictech.libsyn.com/)
 
 ## Power
 
