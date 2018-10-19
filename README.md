@@ -615,4 +615,6 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 ## Websites
 
 * [downloadmybody.com](http://downloadmybody.com/): project by Joe Mango and Matt Romein. Website by Eve Weinberg and Or Fleisher.
+* [Life Sharing](https://anthology.rhizome.org/life-sharing)
+* Rhizome
 * [The Wilderness Downtown](http://www.thewildernessdowntown.com/): interactive film built on HTML5.s
