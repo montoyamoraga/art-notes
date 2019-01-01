@@ -553,6 +553,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Ableton Live [site][https://www.ableton.com/] [wiki](https://en.wikipedia.org/wiki/Ableton_Live): digital audio workstation.
 * Apple Logic Pro [site](https://www.apple.com/logic-pro/) [wiki](https://en.wikipedia.org/wiki/Logic_Pro): digital audio workstation.
 * [audiogrep](http://antiboredom.github.io/audiogrep/): audio supercut tool, by Sam Lavigne.
+* [automatonism](https://www.automatonism.com/): a virtual modular synthesizer built with Pure Data.
 * [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
 * Garageband
 * Kinectron
@@ -568,6 +569,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Reason [site](https://www.propellerheads.se/) [wiki](https://en.wikipedia.org/wiki/Reason_(software)): digital audio workstation.
 * Sonic Pi [site](https://sonic-pi.net/) [wiki](https://en.wikipedia.org/wiki/Sonic_Pi): live coding music software.
 * SuperCollider [site](https://supercollider.github.io/) [wiki](https://en.wikipedia.org/wiki/SuperCollider): audio environment and programming language.
+* [TidalCycles](http://tidalcycles.github.io/): live coding language for audio. 
 * [three.js](https://threejs.org/)
 * tone.js [site](https://tonejs.github.io/): JavaScript library for audio synthesis and manipulation, by Yotam Mann.
 * touchOSC
