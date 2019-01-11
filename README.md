@@ -110,6 +110,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Francisco Papasfritas [site](http://www.franciscopapasfritas.com/): Chilean painter and political artist.
 * Ge Wang [site](http://www.gewang.com/) [wiki](https://en.wikipedia.org/wiki/Ge_Wang): Chinese-American musician, computer scientist, app designer, educator.
 * Gepe [wiki](https://en.wikipedia.org/wiki/Gepe): Chilean singer, songwriter, drummer.
+* Gijs Gieskes [site](http://gieskes.nl/): Dutch musical artist.
 * Golan Levin [site](http://www.flong.com/) [wiki](https://en.wikipedia.org/wiki/Golan_Levin): American new media artist, educator.
 * Gordon Matta-Clark [wiki](https://en.wikipedia.org/wiki/Gordon_Matta-Clark): American artist.
 * Gustavo Cerati [wiki](https://en.wikipedia.org/wiki/Gustavo_Cerati): Argentine singer-songwriter, composer, producer. Member of band Soda Stereo.
@@ -144,6 +145,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Natisú [site](http://www.natisu.com/): Chilean singer-songwriter.
 * Nels Cline
 * Nicanor Parra
+* Patricio González-Vivo [site](http://patriciogonzalezvivo.com/)
 * Prince [wiki](https://en.wikipedia.org/wiki/Prince_(musician)): American musician, singer and songwriter.
 * Rafael Gumucio
 * Rafaël Rozendaal [site](https://www.newrafael.com/) [wiki](https://en.wikipedia.org/wiki/Rafa%C3%ABl_Rozendaal): Dutch-Brazilian visual artist.
@@ -282,6 +284,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Arduino
 * Arturia
 * Bitwig
+* [Bleep Labs](https://bleeplabs.com/)
 * Fathom
 * Google
 * Fender
@@ -555,7 +558,8 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [audiogrep](http://antiboredom.github.io/audiogrep/): audio supercut tool, by Sam Lavigne.
 * [ChucK](http://chuck.cs.princeton.edu/): programming language for real-time sound synthesis and music creation. Developed by Ge Wang.
 * Garageband
-* Kinectron
+* [Kinectron](https://kinectron.github.io/)
+* [Magenta Studio](https://magenta.tensorflow.org/studio)
 * [Max](https://cycling74.com/): visual programming environment for multimedia synthesis and manipulation.
 * [MadMapper](http://madmapper.com/)
 * [Millumin](http://www.millumin.com/)
@@ -566,7 +570,9 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Pro Tools [site](http://www.avid.com/pro-tools) [wiki](https://en.wikipedia.org/wiki/Pro_Tools): digital audio workstation.
 * [Pure Data](http://puredata.info/): open-source visual programming language for multimedia. Developed by Miller Puckette.
 * Reason [site](https://www.propellerheads.se/) [wiki](https://en.wikipedia.org/wiki/Reason_(software)): digital audio workstation.
+* [Runway](https://runwayapp.ai/)
 * Sonic Pi [site](https://sonic-pi.net/) [wiki](https://en.wikipedia.org/wiki/Sonic_Pi): live coding music software.
+* [Sublime Text](https://www.sublimetext.com/)
 * SuperCollider [site](https://supercollider.github.io/) [wiki](https://en.wikipedia.org/wiki/SuperCollider): audio environment and programming language.
 * [three.js](https://threejs.org/)
 * tone.js [site](https://tonejs.github.io/): JavaScript library for audio synthesis and manipulation, by Yotam Mann.
@@ -578,6 +584,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Web Audio API
 * Web MIDI API
 * [Webrecorder](https://webrecorder.io/)
+* [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en)
 * [Wekinator](http://www.wekinator.org/)
 
 ## Studios
