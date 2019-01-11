@@ -575,7 +575,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Sonic Pi [site](https://sonic-pi.net/) [wiki](https://en.wikipedia.org/wiki/Sonic_Pi): live coding music software.
 * [Sublime Text](https://www.sublimetext.com/)
 * SuperCollider [site](https://supercollider.github.io/) [wiki](https://en.wikipedia.org/wiki/SuperCollider): audio environment and programming language.
-* [TidalCycles](http://tidalcycles.github.io/): live coding language for audio. 
+* [TidalCycles](http://tidalcycles.github.io/): live coding language for audio.
 * [three.js](https://threejs.org/)
 * tone.js [site](https://tonejs.github.io/): JavaScript library for audio synthesis and manipulation, by Yotam Mann.
 * touchOSC
