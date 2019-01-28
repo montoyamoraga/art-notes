@@ -24,11 +24,13 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * [Bands](#bands)
 * [Books](#books)
 * [Blogs](#blogs)
-* [Centers](#Centers)
+* [Campaigns](#campaigns)
+* [Centers](#centers)
 * [Classes](#classes)
 * [Collectives](#collectives)
 * [Companies](#companies)
 * [Compositions](#compositions)
+* [Computers](#computers)
 * [Concepts](#concepts)
 * [Conferences](#conferences)
 * [Festivals](#festivals)
@@ -249,6 +251,9 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Hyperallergic
 * The King of Gear
 
+## Campaigns
+
+* [Art+Feminism](http://www.artandfeminism.org/)
 
 ## Centers
 
@@ -312,10 +317,6 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 * [Imaginary Landscape](https://en.wikipedia.org/wiki/Imaginary_Landscape): collection of pieces by John Cage.
 
-## Concepts
-
-* [Electronic civil desobedience](https://en.wikipedia.org/wiki/Electronic_civil_disobedience)
-
 ## Computers
 
 * Apple Macbook
@@ -325,10 +326,16 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 * Google Chromebook
 * Raspberry Pi
 
+## Concepts
+
+* [Electronic civil desobedience](https://en.wikipedia.org/wiki/Electronic_civil_disobedience)
+
 ## Conferences
 
+* [Algorithmic Art Assembly](https://aaassembly.org/)
 * ICLC [site](http://iclc.livecodenetwork.org/): International Conference on Live Coding.
 * NIME [site](http://www.nime.org/): New Interfaces for Musical Expression.
+
 
 ## Connectors
 
@@ -341,6 +348,7 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Festivals
 
+* eyeo
 * [Grow](http://www.grow.paris/): Paris creative coding festival
 * Moxsonic: Missouri Experimental Sonic Arts [site](http://moxsonic.org/)
 * Primavera Hacker
@@ -372,8 +380,9 @@ If you have any comment, send an email to montoyamoraga@gmail.com in order to be
 
 ## Galleries
 
-* bitforms gallery
-* Magenta Plains
+* [bitforms gallery](https://bitforms.art/), New York, NY, USA.
+* [Galería Barrios Bajos](https://www.facebook.com/galeriabarriosbajos/), Valdivia, Chile.
+* [Magenta Plains](http://www.magentaplains.com/), New York, NY, USA.
 
 ## Genres
 
